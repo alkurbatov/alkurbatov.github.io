@@ -51,5 +51,6 @@ defaults:
     scope:
       path: "_posts"
     values:
-      layout: "post"
       author: "Alexander Kurbatov"
+      excerpt_separator: <!--more-->
+      layout: "post"
