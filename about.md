@@ -15,7 +15,7 @@ I work on Virtuozzo frontend and backend solutions and play with clouds.
 * [qrunner](https://github.com/alkurbatov/qrunner) - a tool to run Apple scripts.
 * [suvorov-bot](https://github.com/alkurbatov/suvorov-bot) - a simple Starcraft II script bot.
 
-#### My contribution
+#### My contributions
 * [commandcenter](https://github.com/davechurchill/commandcenter/commits?author=alkurbatov) - Starcraft AI Bot.
 * [feathers-authentication-keystone](https://github.com/virtuozzo/feathers-authentication-keystone/commits?author=alkurbatov) - Keystone authentication strategy for feathers-authentication using Passport.
 * [keystone-auth-hook](https://github.com/virtuozzo/keystone-auth-hook/commits?author=alkurbatov) - Kubernetes keystone authentication webhook.
