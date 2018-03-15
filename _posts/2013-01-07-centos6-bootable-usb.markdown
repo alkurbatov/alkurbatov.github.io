@@ -16,5 +16,4 @@ tags: linux centos
 $ ./livecd-iso-to-disk --format --reset-mbr CentOS-6.3-i386-minimal.iso /dev/sdb1
 {% endhighlight %}
 
-
 Подробнее о других способах создания загрузочной флешки можно прочитать [здесь](http://wiki.centos.org/HowTos/InstallFromUSBkey)

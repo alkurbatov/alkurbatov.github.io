@@ -64,3 +64,7 @@ $ winetricks glsl-disable
 # Program.exe - исполняемый файл программы, которую мы хотим запустить
 wine explorer /desktop=name,1024x768 Program.exe
 {% endhighlight %}
+
+
+## Полезные ссылки
+* [Требования для запуска игр](http://appdb.winehq.org/)
