@@ -43,7 +43,7 @@ permalink: /cv/
 * Поддержка и дальнейшее развитие продукта Parallels Cloud Server 6 (C, C++, Qt, Python, awk, bash).
 * Поддержка и дальнейшее развитие продукта Parallels Virtual Automation (C++, boost, XSLT, XML, Javascript).
 * Разработка пользовательского веб интерфейса для продукта Parallels Virtual Automation.
-* Адаптация и расширение продукта Parallels Virtual Automation для использования технологии Virtual Desktop Infrastructure (VDI) на базе Parallels Virtuozzo Containers for Windows (C++, WinApi, XSLT, XML, JavaScript).
+* Адаптация и расширение продукта Parallels Virtual Automation для использования технологии Virtual Desktop Infrastructure (VDI) на базе Parallels Virtuozzo Containers for Windows (C++, WinApi, XSLT, XML, JavaScript, SOAP).
 * Управления командой из двух разработчиков (один год) и самостоятельное ведение проекта с использованием agile методологии (kanban) адаптированной под нужды проекта и специфику разработки в компании, планирование, оценка рисков.
 * Участие в выпуске продукта Virtuozzo 7 (бывший Parallels Cloud Server) (C, C++, Qt, boost, libvirt, qemu).
 
@@ -53,7 +53,7 @@ permalink: /cv/
 
 Выполняемые обязанности:
 * Портирование продукта Virtuozzo Automator (бывший Parallels Virtual Automation) на CentOs 7 и Virtuozzo 7.
-* Поддержка и дальнейшее развитие продукта Virtuozzo Automator (C++, boost, XSLT, XML, JavaScript, Gulp).
+* Поддержка и дальнейшее развитие продукта Virtuozzo Automator (C++, boost, XSLT, XML, JavaScript, SOAP, Gulp).
 * Управления командой из четырех разработчиков (один год) и самостоятельное ведение проекта с использованием agile методологии (kanban), планирование, оценка рисков.
 * Разработка серверной части продукта Virtuozzo Application Platform (Kubernetes, Docker, NodeJS, FeathersJS, Go), написание юнит-тестов (Jest).
 * Разработка архитектуры аутентификации и авторизации в продукте Virtuozzo Application Platform (Keystone, FeathersJS, Kubernetes).
@@ -78,6 +78,7 @@ permalink: /cv/
 * VNC протокол и его использование для разработки консолей удаленного доступа к Virtual Machine/Container.
 * XSLT, XML.
 * Docker, Ansible.
+* Сборка rpm пакетов.
 * bash, awk.
 * git, svn, VSCode, vim.
 * Английский язык: Upper Intermediate.
