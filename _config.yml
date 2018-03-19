@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: It is фыр-фыр-фыр time!
+title: Alkurbatov's blog
 email: sir.alkurbatov@yandex.ru
 description: >- # this means to ignore newlines until "baseurl:"
   A personal blog about good things, bad things and some rants.
@@ -49,6 +49,7 @@ plugins:
 header_pages:
   - projects.md
   - contributions.md
+  - cv.md
   - about.md
 
 defaults:
