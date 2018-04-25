@@ -58,7 +58,7 @@ permalink: /cv/
 * Разработка серверной части продукта Virtuozzo Application Platform (Kubernetes, Docker, NodeJS, FeathersJS, Go), написание юнит-тестов (Jest).
 * Разработка архитектуры аутентификации и авторизации в продукте Virtuozzo Application Platform (Keystone, FeathersJS, Kubernetes).
 * Разработка веб интерфейса управления продуктом Virtuozzo Application Platform (JavaScript, ReactJS, Redux, MobX, CSS, SCSS).
-* Разработка серверной части продукта Virtuozzo Hyperconverged Infrastructure (Python 3.4), написание юнит-тестов и функциональных тестов (Docker, Python 3.4), расширение компонентов OpenStack (Nova, Glance, Keystone).
+* Разработка серверной части продукта Virtuozzo Hyperconverged Infrastructure (Python 3.4), написание юнит-тестов и функциональных тестов (Docker, Python 3.4), расширение компонентов OpenStack (Cinder, Nova, Glance, Keystone).
 * Разработка архитектуры аутентификации и авторизации в продукте Virtuozzo Hyperconverged Infrastructure (Keystone).
 * Разработка Slack бота для получения своевременных нотификаций о создании новых сборок продукта (NodeJS).
 * Разработка веб интерфейса управления продуктом Virtuozzo Hyperconverged Infrastructure (JavaScript, VueJS, CSS, SCSS).
