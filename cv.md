@@ -54,14 +54,13 @@ permalink: /cv/
 Выполняемые обязанности:
 * Портирование продукта Virtuozzo Automator (бывший Parallels Virtual Automation) на CentOs 7 и Virtuozzo 7.
 * Поддержка и дальнейшее развитие продукта Virtuozzo Automator (C++, boost, XSLT, XML, JavaScript, rpm, SOAP, Gulp).
-* Управления командой из четырех разработчиков (один год) и самостоятельное ведение проекта с использованием agile методологии (kanban), планирование, оценка рисков.
+* Управления командой из четырех разработчиков (один год) и самостоятельное ведение проекта Virtuozzo Automator с использованием agile методологии (kanban), планирование, оценка рисков.
 * Разработка серверной части продукта Virtuozzo Application Platform (Kubernetes, Docker, NodeJS, FeathersJS, Go), написание юнит-тестов (Jest).
 * Разработка архитектуры аутентификации и авторизации в продукте Virtuozzo Application Platform (Keystone, FeathersJS, Kubernetes).
 * Разработка веб интерфейса управления продуктом Virtuozzo Application Platform (JavaScript, ReactJS, Redux, MobX, CSS, SCSS).
 * Разработка серверной части продукта Virtuozzo Hyperconverged Infrastructure (Python 3.4), написание юнит-тестов и функциональных тестов (Docker, Python 3.4), расширение компонентов OpenStack (Cinder, Nova, Glance, Keystone).
 * Разработка архитектуры аутентификации и авторизации в продукте Virtuozzo Hyperconverged Infrastructure (Keystone).
 * Разработка Slack бота для получения своевременных нотификаций о создании новых сборок продукта (NodeJS).
-* Разработка веб интерфейса управления продуктом Virtuozzo Hyperconverged Infrastructure (JavaScript, VueJS, CSS, SCSS).
 
 
 ### [Мои проекты](/projects)
@@ -75,7 +74,7 @@ permalink: /cv/
 * gcc, gdb, cmake, make.
 * Python 2.7, Python 3+, pdb.
 * NodeJS, FeathersJS, REST.
-* JavaScript, ReactJS, VueJS.
+* JavaScript, ReactJS.
 * VNC протокол и его использование для разработки консолей удаленного доступа к виртуальным машинам/контейнерам.
 * XSLT, XML.
 * Docker, Ansible.
@@ -87,6 +86,6 @@ permalink: /cv/
 * поддержки и сопровождения чужого кода в проекте с двадцатилетней историей;
 * использования шаблонов проектирования в разработке;
 * проектирования REST и XML API;
-* анализа требований к задаче, составление feature description, разделение крупной задачи на более мелкие, написание trd;
+* анализа требований к задаче, составление feature description, разделение крупной задачи на более мелкие, написание Test Requirements Documents (TRD's);
 * проведения собеседования при приеме на работу;
 * использования Docker и Ansible для организации рабочего окружения.
