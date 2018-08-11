@@ -78,6 +78,7 @@ permalink: /cv/
 * VNC протокол и его использование для разработки консолей удаленного доступа к виртуальным машинам/контейнерам.
 * XSLT, XML.
 * Docker, Ansible.
+* Nginx.
 * Сборка rpm пакетов.
 * git, svn, VSCode, vim.
 * Английский язык: Upper Intermediate.
