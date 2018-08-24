@@ -4,6 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 * [alkurbatov.github.io](https://github.com/alkurbatov/alkurbatov.github.io) - this blog.
+* [athene](https://github.com/alkurbatov/athene) - Machine learning experiments with pysc2 and Starcraft 2.
 * [cauldron](https://github.com/alkurbatov/cauldron) - a simple password generator
 * [dotfiles](https://github.com/alkurbatov/dotfiles) - the personal configurations files, scripts and more.
 * [flask-examples)](https://github.com/alkurbatov/flask-examples) - useful small Flask examples.
