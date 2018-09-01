@@ -79,7 +79,7 @@ permalink: /cv/
 * XSLT, XML.
 * Docker, Ansible.
 * Nginx.
-* Сборка rpm пакетов.
+* Сборка rpm и pip пакетов.
 * git, svn, VSCode, vim.
 * Английский язык: Upper Intermediate.
 
