@@ -10,3 +10,4 @@ permalink: /projects/
 * [flask-examples)](https://github.com/alkurbatov/flask-examples) - useful small Flask examples.
 * [qrunner](https://github.com/alkurbatov/qrunner) - a tool to run Apple scripts.
 * [suvorov-bot](https://github.com/alkurbatov/suvorov-bot) - a simple Starcraft II script bot.
+* [nihongo](https://github.com/alkurbatov/nihongo) - useful tools for learning Japanese language.

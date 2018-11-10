@@ -72,21 +72,22 @@ permalink: /cv/
 ### Профессиональные навыки
 * C++14, STL, templates, boost.
 * gcc, gdb, cmake, make.
-* Python 2.7, Python 3+, pdb.
-* NodeJS, FeathersJS, REST.
+* Python 2.7, Python 3+.
+* NodeJS, FeathersJS.
+* REST, Websockets.
 * JavaScript, ReactJS.
 * VNC протокол и его использование для разработки консолей удаленного доступа к виртуальным машинам/контейнерам.
 * XSLT, XML.
 * Docker, Ansible.
-* Nginx.
 * Сборка rpm и pip пакетов.
 * git, svn, VSCode, vim.
 * Английский язык: Upper Intermediate.
+* Японский язык (N5).
 
 Также имею опыт:
 * поддержки и сопровождения чужого кода в проекте с двадцатилетней историей;
 * использования шаблонов проектирования в разработке;
-* проектирования REST и XML API;
+* проектирования API (REST и XML);
 * анализа требований к задаче, составление feature description, разделение крупной задачи на более мелкие, написание Test Requirements Documents (TRD's);
 * проведения собеседования при приеме на работу;
 * использования Docker и Ansible для организации рабочего окружения.
