@@ -3,5 +3,9 @@ _site
 .sass-cache
 .jekyll-metadata
 
+# Ruby dependencies (local installation)
+.bundle
+vendor
+
 # OS X trash
 .DS_Store
