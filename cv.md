@@ -61,6 +61,8 @@ permalink: /cv/
 * Разработка серверной части продукта Virtuozzo Hyperconverged Infrastructure (Python 3.4), написание юнит-тестов и функциональных тестов (Docker, Python 3.4), расширение компонентов OpenStack (Cinder, Nova, Glance, Keystone).
 * Разработка архитектуры аутентификации и авторизации в продукте Virtuozzo Hyperconverged Infrastructure (Keystone).
 * Разработка Slack бота для получения своевременных нотификаций о создании новых сборок продукта (NodeJS).
+* Разработка сервиса формирования нотификаций на основе событий, происходящий внутри OpenStack (Python 2.7, oslo.messaging, Docker, kolla-ansible)
+* Участие в разработке архитектуры и написании приложения HCI Virtuozzo Hyperconverged Infrastructure Portal (Python 3.4, Flask, Marshmallow, gevent, uwsgi).
 
 
 ### [Мои проекты](/projects)
@@ -72,7 +74,7 @@ permalink: /cv/
 ### Профессиональные навыки
 * C++14, STL, templates, boost.
 * gcc, gdb, cmake, make.
-* Python 2.7, Python 3+.
+* Python 2.7, Python 3+, Flask, Marshmallow.
 * NodeJS, FeathersJS.
 * REST, Websockets.
 * JavaScript, ReactJS.
