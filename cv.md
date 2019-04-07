@@ -19,6 +19,22 @@ permalink: /cv/
 Специальность: "Приборы и системы ориентации, стабилизации и навигации".
 
 
+### Профессиональные навыки
+* C++14, STL, templates.
+* gcc, gdb, cmake, make.
+* Python 2.7, Python 3+, Flask, Marshmallow.
+* NodeJS, FeathersJS.
+* REST, Websockets.
+* JavaScript, ReactJS.
+* VNC протокол и его использование для разработки консолей удаленного доступа к виртуальным машинам/контейнерам.
+* XSLT, XML.
+* Docker, Ansible.
+* Сборка rpm и pip пакетов.
+* git, VSCode, vim.
+* Английский язык: Upper Intermediate.
+* Японский язык (N5).
+
+
 ### Профессиональный опыт
 07.2008 - 07.2012
 [концерн "Моринформсистема - Агат"](http://www.concern-agat.ru)
@@ -26,8 +42,8 @@ permalink: /cv/
 
 Выполняемые обязанности:
 * Разработка интерфейса управления (экранные формы и видеокадры) оператора корабельного информационно-управляющего комплекса для трех проектов компании (C++, Qt, Xlib, lXpm).
-* Ручное (реже автоматизированное) тестирование своего кода и контроль качества.
-* Системное администрирование двух стендов сопровождения и разработки под управлением Linux(МСВС).
+* Ручное и unit тестирование своего кода.
+* Системное администрирование двух стендов сопровождения и разработки под управлением Linux (МСВС).
 * Самостоятельное ведение проекта в одиночку (два года).
 * Участие в разработке технического задания для перспективных проектов кампании.
 * Написание документации.
@@ -38,11 +54,11 @@ permalink: /cv/
 Должность: инженер-программист.
 
 Выполняемые обязанности:
-* Расширение и адаптирование инсталлятора Anaconda для Parallels Cloud Server 6 (Python 2+, PyQt).
+* Расширение и адаптация инсталлятора Anaconda для Parallels Cloud Server 6 (Python 2+, PyQt).
 * Написание утилит командной строки для High Availability feature продукта Parallels Cloud Server 6 (plain С).
 * Поддержка и дальнейшее развитие продукта Parallels Cloud Server 6 (C, C++, Qt, Python, awk, bash).
-* Поддержка и дальнейшее развитие продукта Parallels Virtual Automation (C++, boost, XSLT, XML, Javascript, rpm).
-* Разработка пользовательского веб интерфейса для продукта Parallels Virtual Automation.
+* Поддержка и дальнейшее развитие продукта Parallels Virtual Automation (C++, boost, SOAP, rpm).
+* Разработка пользовательского веб интерфейса для продукта Parallels Virtual Automation (XSLT, XML, Javascript).
 * Адаптация и расширение продукта Parallels Virtual Automation для использования технологии Virtual Desktop Infrastructure (VDI) на базе Parallels Virtuozzo Containers for Windows (C++, WinApi, XSLT, XML, JavaScript, SOAP).
 * Управления командой из двух разработчиков (один год) и самостоятельное ведение проекта с использованием agile методологии (kanban) адаптированной под нужды проекта и специфику разработки в компании, планирование, оценка рисков.
 * Участие в выпуске продукта Virtuozzo 7 (бывший Parallels Cloud Server) (C, C++, Qt, boost, libvirt).
@@ -58,11 +74,13 @@ permalink: /cv/
 * Разработка серверной части продукта Virtuozzo Application Platform (Kubernetes, Docker, NodeJS, FeathersJS, Go), написание юнит-тестов (Jest).
 * Разработка архитектуры аутентификации и авторизации в продукте Virtuozzo Application Platform (Keystone, FeathersJS, Kubernetes).
 * Разработка веб интерфейса управления продуктом Virtuozzo Application Platform (JavaScript, ReactJS, Redux, MobX, CSS, SCSS).
-* Разработка серверной части продукта Virtuozzo Hyperconverged Infrastructure (Python 3.4), написание юнит-тестов и функциональных тестов (Docker, Python 3.4), расширение компонентов OpenStack (Cinder, Nova, Glance, Keystone).
+* Разработка серверной части продукта Virtuozzo Hyperconverged Infrastructure (Python 3.6), написание юнит-тестов и функциональных тестов (Docker, Python 3.4), расширение компонентов OpenStack (Cinder, Nova, Glance, Keystone).
 * Разработка архитектуры аутентификации и авторизации в продукте Virtuozzo Hyperconverged Infrastructure (Keystone).
 * Разработка Slack бота для получения своевременных нотификаций о создании новых сборок продукта (NodeJS).
-* Разработка сервиса формирования нотификаций на основе событий, происходящий внутри OpenStack (Python 2.7, oslo.messaging, Docker, kolla-ansible)
-* Участие в разработке архитектуры и написании приложения HCI Virtuozzo Hyperconverged Infrastructure Portal (Python 3.4, Flask, Marshmallow, gevent, uwsgi).
+* Разработка сервиса формирования нотификаций на основе событий, происходящий внутри OpenStack (Python 2.7, oslo.messaging, Docker, kolla)
+* Участие в разработке архитектуры и написании приложения HCI Virtuozzo Hyperconverged Infrastructure Self Service Portal (Python 3.6, Flask, Marshmallow, gevent, uwsgi).
+* Участие в разработке и поддержке документации на базе OpenAPI 3.
+* Управление командой frontend разработчиков (четыре человека).
 
 
 ### [Мои проекты](/projects)
@@ -71,25 +89,11 @@ permalink: /cv/
 ### [Мой вклад в Open Source](/contributions)
 
 
-### Профессиональные навыки
-* C++14, STL, templates, boost.
-* gcc, gdb, cmake, make.
-* Python 2.7, Python 3+, Flask, Marshmallow.
-* NodeJS, FeathersJS.
-* REST, Websockets.
-* JavaScript, ReactJS.
-* VNC протокол и его использование для разработки консолей удаленного доступа к виртуальным машинам/контейнерам.
-* XSLT, XML.
-* Docker, Ansible.
-* Сборка rpm и pip пакетов.
-* git, svn, VSCode, vim.
-* Английский язык: Upper Intermediate.
-* Японский язык (N5).
-
 Также имею опыт:
 * поддержки и сопровождения чужого кода в проекте с двадцатилетней историей;
 * использования шаблонов проектирования в разработке;
 * проектирования API (REST и XML);
+* разворачивания и сопровождения private npm registry (Verdaccio);
 * анализа требований к задаче, составление feature description, разделение крупной задачи на более мелкие, написание Test Requirements Documents (TRD's);
 * проведения собеседования при приеме на работу;
 * использования Docker и Ansible для организации рабочего окружения.
