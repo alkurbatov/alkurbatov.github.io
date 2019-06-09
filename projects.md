@@ -7,7 +7,7 @@ permalink: /projects/
 * [athene](https://github.com/alkurbatov/athene) - Machine learning experiments with pysc2 and Starcraft 2.
 * [cauldron](https://github.com/alkurbatov/cauldron) - a simple password generator
 * [dotfiles](https://github.com/alkurbatov/dotfiles) - the personal configurations files, scripts and more.
-* [flask-examples)](https://github.com/alkurbatov/flask-examples) - useful small Flask examples.
+* [flask-examples](https://github.com/alkurbatov/flask-examples) - useful small Flask examples.
 * [qrunner](https://github.com/alkurbatov/qrunner) - a tool to run Apple scripts.
 * [suvorov-bot](https://github.com/alkurbatov/suvorov-bot) - a simple Starcraft II script bot.
 * [nihongo](https://github.com/alkurbatov/nihongo) - useful tools for learning Japanese language.
