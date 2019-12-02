@@ -6,8 +6,8 @@ permalink: /cv/
 ### Личная информация
 * Дата рождения: 13.08.1984.
 * Гражданство: РФ.
-* Проживание: г. Москва, ближайшее метро Новогиреево.
-* Email: sir.alkurbatov@yandex.ru
+* Проживание: г. Москва, ближайшее метро Стахановская/МЦК Нижегородская.
+* Email: sandro.kurbatov@gmail.com
 
 
 ### Образование
@@ -22,12 +22,12 @@ permalink: /cv/
 * C++14, STL, templates.
 * gcc, gdb, cmake, make.
 * Python 2.7, Python 3+, Flask, Marshmallow.
-* NodeJS, FeathersJS.
 * REST, Websockets.
-* JavaScript, ReactJS.
-* VNC протокол и его использование для разработки консолей удаленного доступа к виртуальным машинам/контейнерам.
+* VNC протокол и его использование для разработки консолей удалённого доступа к виртуальным машинам/контейнерам.
 * XSLT, XML.
 * Docker, Ansible.
+* NodeJS, FeathersJS (поверхностные знания).
+* JavaScript, ReactJS, VueJS (поверхностные знания).
 * Сборка rpm и pip пакетов.
 * git, VSCode, vim.
 * Английский язык: Upper Intermediate.
@@ -40,7 +40,7 @@ permalink: /cv/
 Должность: инженер-программист.
 
 Выполняемые обязанности:
-* Разработка интерфейса управления (экранные формы и видеокадры) оператора корабельного информационно-управляющего комплекса для трех проектов компании (C++, Qt, Xlib, lXpm).
+* Разработка интерфейса управления (экранные формы и видеокадры) оператора корабельного информационно-управляющего комплекса для трёх проектов компании (C++, Qt, Xlib, lXpm).
 * Ручное и unit тестирование своего кода.
 * Системное администрирование двух стендов сопровождения и разработки под управлением Linux (МСВС).
 * Самостоятельное ведение проекта в одиночку (два года).
@@ -57,7 +57,7 @@ permalink: /cv/
 * Написание утилит командной строки для High Availability feature продукта Parallels Cloud Server 6 (plain С).
 * Поддержка и дальнейшее развитие продукта Parallels Cloud Server 6 (C, C++, Qt, Python, awk, bash).
 * Поддержка и дальнейшее развитие продукта Parallels Virtual Automation (C++, boost, SOAP, rpm).
-* Разработка пользовательского веб интерфейса для продукта Parallels Virtual Automation (XSLT, XML, Javascript).
+* Разработка пользовательского веб интерфейса для продукта Parallels Virtual Automation, full stack (XSLT, XML, Javascript, C++, boost).
 * Адаптация и расширение продукта Parallels Virtual Automation для использования технологии Virtual Desktop Infrastructure (VDI) на базе Parallels Virtuozzo Containers for Windows (C++, WinApi, XSLT, XML, JavaScript, SOAP).
 * Управления командой из двух разработчиков (один год) и самостоятельное ведение проекта с использованием agile методологии (kanban) адаптированной под нужды проекта и специфику разработки в компании, планирование, оценка рисков.
 * Участие в выпуске продукта Virtuozzo 7 (бывший Parallels Cloud Server) (C, C++, Qt, boost, libvirt).
@@ -69,17 +69,19 @@ permalink: /cv/
 Выполняемые обязанности:
 * Портирование продукта Virtuozzo Automator (бывший Parallels Virtual Automation) на CentOs 7 и Virtuozzo 7.
 * Поддержка и дальнейшее развитие продукта Virtuozzo Automator (C++, boost, XSLT, XML, JavaScript, rpm, SOAP, Gulp).
-* Управления командой из четырех разработчиков (один год) и самостоятельное ведение проекта Virtuozzo Automator с использованием agile методологии (kanban), планирование, оценка рисков.
+* Управления командой из четырёх разработчиков (один год) и самостоятельное ведение проекта Virtuozzo Automator с использованием agile методологии (kanban), планирование, оценка рисков.
 * Разработка серверной части продукта Virtuozzo Application Platform (Kubernetes, Docker, NodeJS, FeathersJS, Go), написание юнит-тестов (Jest).
 * Разработка архитектуры аутентификации и авторизации в продукте Virtuozzo Application Platform (Keystone, FeathersJS, Kubernetes).
 * Разработка веб интерфейса управления продуктом Virtuozzo Application Platform (JavaScript, ReactJS, Redux, MobX, CSS, SCSS).
-* Разработка серверной части продукта Virtuozzo Hyperconverged Infrastructure (Python 3.6), написание юнит-тестов и функциональных тестов (Docker, Python 3.4), расширение компонентов OpenStack (Cinder, Nova, Glance, Keystone).
+* Разработка серверной части продукта Virtuozzo Hyperconverged Infrastructure (Python 3.6), написание юнит-тестов и функциональных тестов (Docker, Python 3.6), расширение компонентов OpenStack (Cinder, Nova, Glance, Keystone, Python 2.6).
 * Разработка архитектуры аутентификации и авторизации в продукте Virtuozzo Hyperconverged Infrastructure (Keystone).
-* Разработка Slack бота для получения своевременных нотификаций о создании новых сборок продукта (NodeJS).
+* Разработка Slack бота для получения своевременных нотификаций о создании новых сборок продукта Virtuozzo Automator (NodeJS).
 * Разработка сервиса формирования нотификаций на основе событий, происходящий внутри OpenStack (Python 2.7, oslo.messaging, Docker, kolla)
-* Участие в разработке архитектуры и написании приложения HCI Virtuozzo Hyperconverged Infrastructure Self Service Portal (Python 3.6, Flask, Marshmallow, gevent, uwsgi).
+* Участие в разработке архитектуры и написании приложения HCI Virtuozzo Hyperconverged Infrastructure Self Service Portal (Python 3.6, Flask, Marshmallow, gevent, uwsgi, VueJS).
 * Участие в разработке и поддержке документации на базе OpenAPI 3.
-* Управление командой frontend разработчиков (четыре человека).
+* Управление командой frontend разработчиков (пять человек).
+* Разработка и сопровождение эмулятора бэкенда на базе Open API схемы для обеспечения возможности вести разработку фронтендерских задач параллельно с командой бэкенда (Open API 3, NodeJS, fastify).
+* Поддержка демо стенда на базе эмулятора бэкенда для организации промежуточных показов актуальных задач и проблем продукта.
 
 
 ### [Мои проекты](/projects)
@@ -89,11 +91,12 @@ permalink: /cv/
 
 
 Также имею опыт:
-* поддержки и сопровождения чужого кода в проекте с двадцатилетней историей;
+* поддержки и сопровождения чужого кода в проектах с двадцатилетней историей;
 * использования шаблонов проектирования в разработке;
 * проектирования API (REST и XML);
 * разворачивания и сопровождения private npm registry (Verdaccio);
+* экспериментов с машинным обучением - reinforcement learning (Q-Learning, SARSA);
 * анализа требований к задаче, составление feature description, разделение крупной задачи на более мелкие, написание Test Requirements Documents (TRD's);
-* проведения собеседования при приеме на работу;
-* использования Docker и Ansible для организации рабочего окружения.
+* проведения собеседования при приёме на работу;
+* использования Docker и Ansible для организации рабочего окружения;
 * воспитания двух кошек :)
