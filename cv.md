@@ -21,17 +21,17 @@ permalink: /cv/
 ### Профессиональные навыки
 * C++14, STL, templates.
 * gcc, gdb, cmake, make.
-* Python 2.7, Python 3+, Flask, Marshmallow.
+* Python 2.7, Python 3+.
+* NodeJS (поверхностные знания).
 * REST, Websockets.
 * VNC протокол и его использование для разработки консолей удалённого доступа к виртуальным машинам/контейнерам.
-* XSLT, XML.
+* OpenStack.
 * Docker, Ansible.
-* NodeJS, FeathersJS (поверхностные знания).
-* JavaScript, ReactJS, VueJS (поверхностные знания).
+* XSLT, XML.
 * Сборка rpm и pip пакетов.
 * git, VSCode, vim.
 * Английский язык: Upper Intermediate.
-* Японский язык (N5).
+* Японский язык (N4, есть сертификат nihongo noryoku shiken N5).
 
 
 ### Профессиональный опыт
@@ -73,15 +73,16 @@ permalink: /cv/
 * Разработка серверной части продукта Virtuozzo Application Platform (Kubernetes, Docker, NodeJS, FeathersJS, Go), написание юнит-тестов (Jest).
 * Разработка архитектуры аутентификации и авторизации в продукте Virtuozzo Application Platform (Keystone, FeathersJS, Kubernetes).
 * Разработка веб интерфейса управления продуктом Virtuozzo Application Platform (JavaScript, ReactJS, Redux, MobX, CSS, SCSS).
-* Разработка серверной части продукта Virtuozzo Hyperconverged Infrastructure (Python 3.6), написание юнит-тестов и функциональных тестов (Docker, Python 3.6), расширение компонентов OpenStack (Cinder, Nova, Glance, Keystone, Python 2.6).
+* Разработка серверной части продукта Virtuozzo Hyperconverged Infrastructure (Python 3.6), написание юнит-тестов и функциональных тестов (Docker, Python 3.6), расширение компонентов OpenStack (Cinder, Nova, Glance, Keystone, Python 2.7).
 * Разработка архитектуры аутентификации и авторизации в продукте Virtuozzo Hyperconverged Infrastructure (Keystone).
 * Разработка Slack бота для получения своевременных нотификаций о создании новых сборок продукта Virtuozzo Automator (NodeJS).
-* Разработка сервиса формирования нотификаций на основе событий, происходящий внутри OpenStack (Python 2.7, oslo.messaging, Docker, kolla)
-* Участие в разработке архитектуры и написании приложения HCI Virtuozzo Hyperconverged Infrastructure Self Service Portal (Python 3.6, Flask, Marshmallow, gevent, uwsgi, VueJS).
+* Разработка сервиса формирования нотификаций на основе событий, происходящих внутри OpenStack (Python 2.7, oslo.messaging, Docker, kolla)
+* Участие в разработке архитектуры и написании приложения HCI Virtuozzo Hyperconverged Infrastructure Self Service Portal (Python 3.6, Flask, Marshmallow, gevent, uwsgi).
 * Участие в разработке и поддержке документации на базе OpenAPI 3.
-* Управление командой frontend разработчиков (пять человек).
+* Управление командой frontend разработчиков (пять человек), планирование, оценка рисков, детализация задач.
+* Участие в разработке HCI Virtuozzo Hyperconverged Infrastructure (JavaScript, VueJs).
 * Разработка и сопровождение эмулятора бэкенда на базе Open API схемы для обеспечения возможности вести разработку фронтендерских задач параллельно с командой бэкенда (Open API 3, NodeJS, fastify).
-* Поддержка демо стенда на базе эмулятора бэкенда для организации промежуточных показов актуальных задач и проблем продукта.
+* Поддержка демо стенда на базе эмулятора бэкенда для организации промежуточных показов актуальных задач и проблем продукта (Nginx, NodeJS).
 
 
 ### [Мои проекты](/projects)
