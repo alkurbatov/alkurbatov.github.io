@@ -22,7 +22,9 @@ permalink: /cv/
 * C++14, STL, templates.
 * gcc, gdb, cmake, make.
 * Python 2.7, Python 3+.
+* Linux (CentOs, Fedora).
 * NodeJS (поверхностные знания).
+* Дизайн и разработка пользовательских интерфейсов (UI/UX).
 * REST, Websockets.
 * VNC протокол и его использование для разработки консолей удалённого доступа к виртуальным машинам/контейнерам.
 * OpenStack.
@@ -32,6 +34,17 @@ permalink: /cv/
 * git, VSCode, vim.
 * Английский язык: Upper Intermediate.
 * Японский язык (N4, есть сертификат nihongo noryoku shiken N5).
+
+Также имею опыт:
+* поддержки и сопровождения чужого кода в проектах с двадцатилетней историей;
+* использования шаблонов проектирования в разработке;
+* проектирования API (REST и XML);
+* разворачивания и сопровождения private npm registry (Verdaccio);
+* экспериментов с машинным обучением - reinforcement learning (Q-Learning, SARSA);
+* анализа требований к задаче, составление feature description, разделение крупной задачи на более мелкие, написание Test Requirements Documents (TRD's);
+* проведения собеседования при приёме на работу;
+* использования Docker и Ansible для организации рабочего окружения;
+* воспитания двух кошек :)
 
 
 ### Профессиональный опыт
@@ -67,7 +80,7 @@ permalink: /cv/
 * Разработка серверной части продукта Virtuozzo Application Platform (Kubernetes, Docker, NodeJS, FeathersJS, Go), написание юнит-тестов (Jest).
 * Разработка архитектуры аутентификации и авторизации в продукте Virtuozzo Application Platform (Keystone, FeathersJS, Kubernetes).
 * Разработка веб интерфейса управления продуктом Virtuozzo Application Platform (JavaScript, ReactJS, Redux, MobX, CSS, SCSS).
-* Разработка серверной части продукта Virtuozzo Hyperconverged Infrastructure (Python 3.6), написание юнит-тестов и функциональных тестов (Docker, Python 3.6), расширение компонентов OpenStack (Cinder, Nova, Glance, Keystone, Python 2.7).
+* Разработка серверной части продукта Virtuozzo Hyperconverged Infrastructure (Python 3.6), написание юнит-тестов, интеграционных и функциональных тестов (Docker, Python 3.6), расширение компонентов OpenStack (Cinder, Nova, Glance, Keystone, Python 2.7).
 * Разработка архитектуры аутентификации и авторизации в продукте Virtuozzo Hyperconverged Infrastructure (Keystone).
 * Разработка Slack бота для получения своевременных нотификаций о создании новых сборок продукта Virtuozzo Automator (NodeJS).
 * Разработка сервиса формирования нотификаций на основе событий, происходящих внутри OpenStack (Python 2.7, oslo.messaging, Docker, kolla)
@@ -76,7 +89,7 @@ permalink: /cv/
 * Управление командой frontend разработчиков (пять человек), планирование, оценка рисков, детализация задач.
 * Участие в разработке HCI Virtuozzo Hyperconverged Infrastructure (JavaScript, VueJs).
 * Разработка и сопровождение эмулятора бэкенда на базе Open API схемы для обеспечения возможности вести разработку фронтендерских задач параллельно с командой бэкенда (Open API 3, NodeJS, fastify).
-* Поддержка демо стенда на базе эмулятора бэкенда для организации промежуточных показов актуальных задач и проблем продукта (Nginx, NodeJS).
+* Поддержка демо стенда на базе эмулятора бэкенда для организации промежуточных показов актуальных задач и проблем продукта, базовая автоматизация (Ansible, Nginx, NodeJS).
 
 
 ### [Мои проекты](/projects)
@@ -84,14 +97,3 @@ permalink: /cv/
 
 ### [Мой вклад в Open Source](/contributions)
 
-
-### Также имею опыт
-* поддержки и сопровождения чужого кода в проектах с двадцатилетней историей;
-* использования шаблонов проектирования в разработке;
-* проектирования API (REST и XML);
-* разворачивания и сопровождения private npm registry (Verdaccio);
-* экспериментов с машинным обучением - reinforcement learning (Q-Learning, SARSA);
-* анализа требований к задаче, составление feature description, разделение крупной задачи на более мелкие, написание Test Requirements Documents (TRD's);
-* проведения собеседования при приёме на работу;
-* использования Docker и Ansible для организации рабочего окружения;
-* воспитания двух кошек :)
