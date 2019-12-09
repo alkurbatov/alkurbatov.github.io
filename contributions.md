@@ -11,7 +11,5 @@ permalink: /contributions/
 * [s2client-api](https://github.com/Blizzard/s2client-api/commits?author=alkurbatov) - StarCraft II Client C++ library.
 * [sc2ladderserver](https://github.com/Cryptyc/Sc2LadderServer/commits?author=alkurbatov) - A ladder server for StarCraft II API.
 
-#### Publications
+#### Documentation
 * [ROSA Linux wiki](http://wiki.rosalab.ru/ru/index.php/Служебная:Вклад/AL---)
-* Анализ проблемы оценки качества графического интерфейса оператора функционального комплекса. //Состояние, проблемы и перспективы создания корабельных информационно-управляющих комплексов. — 2011, С. 116-120.
-* Анализ проблемы повышения боевой эффективности эргатических систем военно-морского флота. //Состояние, проблемы и перспективы создания корабельных информационно-управляющих комплексов. — 2011, С. 121-125
