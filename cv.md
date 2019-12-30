@@ -7,7 +7,7 @@ permalink: /cv/
 * Дата рождения: 13.08.1984.
 * Гражданство: РФ.
 * Проживание: г. Москва, ближайшее метро Стахановская/МЦК Нижегородская.
-* Email: sandro.kurbatov@gmail.com
+* Email: [sandro.kurbatov@gmail.com](mailto:sandro.kurbatov@gmail.com)
 
 
 ### Образование
