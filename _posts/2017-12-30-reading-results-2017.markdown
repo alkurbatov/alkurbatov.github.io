@@ -19,3 +19,5 @@ tags: books review
 * Alice's Adventures in Wonderland, Lewis Carroll, Collins Classics - вспоминаем детство, учим английский :)
 
 * Звёздный Десант, Роберт Хайнлайн, MyBook - перечитывал второй раз, читается на одном дыхании. Кроме того, кажется, это единственная политическая система, которая мне нравится. Привет милитаризм.
+
+[Итоги 2016го года]({% link _posts/2016-12-30-reading-results-2016.markdown %}) | [Итоги 2018го года]({% link _posts/2018-12-30-reading-results-2018.markdown %})
