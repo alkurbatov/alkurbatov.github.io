@@ -16,6 +16,10 @@ $ bundle exec jekyll serve
 # Now the site is accessible at http://127.0.0.1:4000
 ```
 
+## Documentation
+For additional info please refer to:
+* [Official Jekyll documentation](https://jekyllrb.com/docs/)
+
 ## License
 Copyright (c) 2018 - 2020
 
