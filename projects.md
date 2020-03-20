@@ -15,3 +15,4 @@ permalink: /projects/
 * [qrunner](https://github.com/alkurbatov/qrunner) - a tool to run Apple scripts.
 * [sharkitten](https://github.com/alkurbatov/sharkitten) - a nodejs wrapper for Virtuozzo Automator (aka PVA) XML API.
 * [suvorov-bot](https://github.com/alkurbatov/suvorov-bot) - a simple StarCraft II script bot.
+* [work-automata](https://github.com/alkurbatov/work-automata.git) - brings some automation to my life.
