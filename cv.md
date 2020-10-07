@@ -22,15 +22,15 @@ permalink: /cv/
 * C++14, STL, templates.
 * gcc, gdb, cmake, make.
 * Python 2.7, Python 3+.
+* NodeJS (поверхностные знания), Jest.
 * Linux (CentOs, Fedora).
-* NodeJS (поверхностные знания).
-* Дизайн и разработка пользовательских интерфейсов (UI/UX).
 * REST, Websockets.
 * VNC протокол и его использование для разработки консолей удалённого доступа к виртуальным машинам/контейнерам.
 * OpenStack (Nova, Glance, Keystone, devstack).
 * Docker, Ansible.
 * XSLT, XML.
 * Сборка npm, rpm и pip пакетов.
+* Дизайн и разработка пользовательских интерфейсов (UI/UX).
 * git, VSCode, vim.
 * Английский язык: Upper Intermediate.
 * Японский язык (N4, успешно сдал JLPT N5).
@@ -41,13 +41,49 @@ permalink: /cv/
 * проектирования API (REST и XML);
 * разворачивания и сопровождения private npm registry (Verdaccio);
 * экспериментов с машинным обучением - reinforcement learning (Q-Learning, SARSA);
-* анализа требований к задаче, составление feature description, разделение крупной задачи на более мелкие, написание Test Requirements Documents (TRD's);
+* анализа требований к задаче, составление Feature Description (FD's), разделение крупной задачи на более мелкие, написание Test Requirements Documents (TRD's);
 * проведения собеседования при приёме на работу;
-* использования Docker и Ansible для организации рабочего окружения;
+* использования Docker и Ansible для организации рабочего окружения и автоматизации рутинных процессов;
 * воспитания двух кошек :)
 
 
 ### Профессиональный опыт
+[Acronis](https://acronis.com)  
+02.2020 - по настоящее время, руководитель группы разработки.  
+
+* Участие в разработке фронтенд-части ACI - Acronis Cyber Infrastructure (JavaScript, VueJs, Vuex, Vue-router, CSS), написание юнит-тестов (Jest).
+* Управление командой frontend разработчиков (шесть человек), планирование, оценка рисков, детализация задач.
+* Организация и сопровождение процесса перевода интерфейса пользователя на другие языки.
+* Сопровождение и улучшение внутреннего инструмента автоматизированного разворачивания ACI во внутренней инфраструктуре компании (Python, Heat).
+
+[Virtuozzo Research](https://virtuozzo.com)  
+01.2016 - 02.2020, старший программист-разработчик.  
+
+* Поддержка и дальнейшее развитие продукта Virtuozzo Automator (бывший Parallels Virtual Automation), портирование на CentOs 7 (C++, boost, XSLT, XML, JavaScript, rpm, SOAP, Gulp).
+* Разработка Slack бота для получения своевременных нотификаций о создании новых сборок продукта Virtuozzo Automator (NodeJS).
+* Управления командой из четырёх разработчиков (один год) и самостоятельное ведение проекта Virtuozzo Automator с использованием agile методологии (kanban), планирование, оценка рисков.
+* Разработка серверной части продукта Virtuozzo Application Platform (Kubernetes, Docker, NodeJS, FeathersJS, Go), написание юнит-тестов (Jest).
+* Разработка веб интерфейса управления продуктом Virtuozzo Application Platform (JavaScript, ReactJS, Redux, MobX, CSS, SCSS).
+* Разработка серверной части продукта Virtuozzo Hyperconverged Infrastructure (Python 3.6), написание юнит и интеграционных тестов (Docker, Python 3.6), расширение компонентов OpenStack (Cinder, Nova, Glance, Keystone, Python 2.7).
+* Разработка архитектуры аутентификации и авторизации в продуктах Virtuozzo Application Platform (Keystone, FeathersJS, Kubernetes) и Virtuozzo Hyperconverged Infrastructure (Keystone).
+* Проектирование и разработка сервиса формирования нотификаций на основе событий, происходящих внутри OpenStack (Python 2.7, oslo.messaging, Docker, kolla)
+* Участие в разработке архитектуры и разработке HCI Virtuozzo Hyperconverged Infrastructure Self Service Portal (Python 3.6, Flask, Marshmallow, gevent, uwsgi).
+* Разработка и поддержка документации на базе OpenAPI 3.
+* Управление командой frontend разработчиков (пять человек), планирование, оценка рисков, детализация задач (2 года).
+* Участие в разработке HCI - Virtuozzo Hyperconverged Infrastructure (JavaScript, VueJs, Vuex, Vue-router, CSS).
+* Разработка и сопровождение эмулятора бэкенда на базе OpenAPI схемы для обеспечения возможности вести разработку фронтендерских задач параллельно с командой бэкенда (OpenAPI 3, NodeJS, fastify).
+* Поддержка демо стенда на базе эмулятора бэкенда для организации промежуточных показов актуальных задач и проблем продукта, базовая автоматизация (Ansible, Nginx, NodeJS).
+* Поддержка и сопровождение процесса перевода интерфейса пользователя на другие языки.
+
+[Parallels Research](https://www.parallels.com)  
+07.2012 - 12.2015, инженер-программист  
+
+* Расширение и адаптация инсталлятора Anaconda для Parallels Cloud Server 6 (Python 2+, PyQt).
+* Поддержка и дальнейшее развитие продуктов Parallels Cloud Server 6 и Virtuozzo Server 7 (C, C++, boost, libvirt, Qt, Python, awk, bash).
+* Разработка пользовательского веб интерфейса для продукта Parallels Virtual Automation, full stack (XSLT, XML, Javascript, C++, boost, rpm, SOAP).
+* Адаптация и расширение продукта Parallels Virtual Automation для использования технологии Virtual Desktop Infrastructure (VDI) на базе Parallels Virtuozzo Containers for Windows (C++, WinApi, XSLT, XML, JavaScript, SOAP).
+* Управления командой из двух разработчиков (один год) и самостоятельное ведение проекта с использованием agile методологии (kanban) адаптированной под нужды проекта и специфику разработки в компании, планирование, оценка рисков.
+
 [Концерн "Моринформсистема - Агат"](http://www.concern-agat.ru)  
 07.2008 - 07.2012, инженер-программист  
 
@@ -58,51 +94,6 @@ permalink: /cv/
 * Участие в разработке технического задания для перспективных проектов кампании.
 * Написание документации.
 * Использования статических анализаторов (cppcheck) для проведения анализа кода.
-
-[Parallels Research](https://www.parallels.com)  
-07.2012 - 12.2015, инженер-программист  
-
-* Расширение и адаптация инсталлятора Anaconda для Parallels Cloud Server 6 (Python 2+, PyQt).
-* Написание утилит командной строки для High Availability feature продукта Parallels Cloud Server 6 (plain С).
-* Поддержка и дальнейшее развитие продукта Parallels Cloud Server 6 (C, C++, Qt, Python, awk, bash).
-* Поддержка и дальнейшее развитие продукта Parallels Virtual Automation (C++, boost, SOAP, rpm).
-* Разработка пользовательского веб интерфейса для продукта Parallels Virtual Automation, full stack (XSLT, XML, Javascript, C++, boost).
-* Адаптация и расширение продукта Parallels Virtual Automation для использования технологии Virtual Desktop Infrastructure (VDI) на базе Parallels Virtuozzo Containers for Windows (C++, WinApi, XSLT, XML, JavaScript, SOAP).
-* Управления командой из двух разработчиков (один год) и самостоятельное ведение проекта с использованием agile методологии (kanban) адаптированной под нужды проекта и специфику разработки в компании, планирование, оценка рисков.
-* Участие в выпуске продукта Virtuozzo 7 (бывший Parallels Cloud Server) (C, C++, Qt, boost, libvirt).
-
-[Virtuozzo Research](https://virtuozzo.com)  
-01.2016 - 02.2020, старший программист-разработчик.  
-
-* Портирование продукта Virtuozzo Automator (бывший Parallels Virtual Automation) на CentOs 7 и Virtuozzo 7.
-* Поддержка и дальнейшее развитие продукта Virtuozzo Automator (C++, boost, XSLT, XML, JavaScript, rpm, SOAP, Gulp).
-* Управления командой из четырёх разработчиков (один год) и самостоятельное ведение проекта Virtuozzo Automator с использованием agile методологии (kanban), планирование, оценка рисков.
-* Разработка серверной части продукта Virtuozzo Application Platform (Kubernetes, Docker, NodeJS, FeathersJS, Go), написание юнит-тестов (Jest).
-* Разработка архитектуры аутентификации и авторизации в продукте Virtuozzo Application Platform (Keystone, FeathersJS, Kubernetes).
-* Разработка веб интерфейса управления продуктом Virtuozzo Application Platform (JavaScript, ReactJS, Redux, MobX, CSS, SCSS).
-* Разработка серверной части продукта Virtuozzo Hyperconverged Infrastructure (Python 3.6), написание юнит-тестов, интеграционных и функциональных тестов (Docker, Python 3.6), расширение компонентов OpenStack (Cinder, Nova, Glance, Keystone, Python 2.7).
-* Разработка архитектуры аутентификации и авторизации в продукте Virtuozzo Hyperconverged Infrastructure (Keystone).
-* Разработка Slack бота для получения своевременных нотификаций о создании новых сборок продукта Virtuozzo Automator (NodeJS).
-* Разработка сервиса формирования нотификаций на основе событий, происходящих внутри OpenStack (Python 2.7, oslo.messaging, Docker, kolla)
-* Участие в разработке архитектуры и написании приложения HCI Virtuozzo Hyperconverged Infrastructure Self Service Portal (Python 3.6, Flask, Marshmallow, gevent, uwsgi).
-* Участие в разработке и поддержке документации на базе OpenAPI 3.
-* Управление командой frontend разработчиков (пять человек), планирование, оценка рисков, детализация задач (2 года).
-* Участие в разработке HCI - Virtuozzo Hyperconverged Infrastructure (JavaScript, VueJs).
-* Разработка и сопровождение эмулятора бэкенда на базе OpenAPI схемы для обеспечения возможности вести разработку фронтендерских задач параллельно с командой бэкенда (OpenAPI 3, NodeJS, fastify).
-* Поддержка демо стенда на базе эмулятора бэкенда для организации промежуточных показов актуальных задач и проблем продукта, базовая автоматизация (Ansible, Nginx, NodeJS).
-* Поддержка и сопровождение процесса перевода интерфейса пользователя на другие языки.
-
-[Acronis](https://acronis.com)  
-02.2020 - по настоящее время, руководитель группы разработки.  
-
-* Участие в разработке ACI - Acronis Cyber Infrastructure (JavaScript, VueJs, CSS).
-* Управление командой frontend разработчиков (пять человек), планирование, оценка рисков, детализация задач.
-* Организация и сопровождение процесса перевода интерфейса пользователя на другие языки.
-* Участие в разработке и поддержке документации на базе OpenAPI 3.
-* Разработка и сопровождение эмулятора бэкенда на базе OpenAPI схемы для обеспечения возможности вести разработку фронтендерских задач параллельно с командой бэкенда (OpenAPI 3, NodeJS, fastify).
-* Автоматизация поддержки демо стендов на базе эмулятора бэкенда для организации промежуточных показов последних разработок и проблем продукта (Ansible, Nginx, NodeJS).
-* Сопровождение и улучшение внутреннего инструмента автоматизированного разворачивания ACI во внутренней инфраструктуре компании (Python, Heat).
-
 
 ### [Проекты](/projects)
 
