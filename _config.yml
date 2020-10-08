@@ -50,7 +50,8 @@ plugins:
 
 header_pages:
   - projects.md
-  - contributions.md
+  - certificates.md
+  - publications.md
   - cv.md
   - about.md
 
