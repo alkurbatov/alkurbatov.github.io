@@ -1,5 +1,8 @@
 {
-    "spellright.language": "ru",
+    "spellright.language": [
+        "ru",
+        "en"
+    ],
     "spellright.documentTypes": [
         "markdown",
         "latex",
