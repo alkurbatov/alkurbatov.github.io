@@ -21,6 +21,6 @@ For additional info please refer to:
 * [Official Jekyll documentation](https://jekyllrb.com/docs/)
 
 ## License
-Copyright (c) 2018 - 2020
+Copyright (c) 2018 - 2021
 
 Licensed under the [GPLv3 license](COPYING).
