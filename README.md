@@ -5,7 +5,7 @@ Personal blog of Alexander Kurbatov built with jekyll.
 ```bash
 # Install dependencies.
 $ sudo gem install jekyll bundler
-$ bundle install --path vendor/bundle
+$ bundle install
 
 # Update the dependencies if needed.
 $ bundle update

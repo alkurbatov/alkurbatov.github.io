@@ -4,7 +4,6 @@ _site
 .jekyll-metadata
 
 # Ruby dependencies (local installation)
-.bundle
 vendor
 
 # OS X trash
