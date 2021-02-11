@@ -52,7 +52,7 @@ header_pages:
   - projects.md
   - certificates.md
   - publications.md
-  - cv.md
+  - cv/en.md
   - about.md
 
 defaults:
