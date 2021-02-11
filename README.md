@@ -17,8 +17,8 @@ $ bundle exec jekyll serve
 ```
 
 ## Documentation
-For additional info please refer to:
 * [Official Jekyll documentation](https://jekyllrb.com/docs/)
+* [Markdown Syntax](https://www.markdownguide.org/basic-syntax/)
 
 ## License
 Copyright (c) 2018 - 2021
