@@ -37,7 +37,7 @@ Responsible, purposeful, passionate about technology. I have strong software eng
 I enjoy ice skating, develop open source C++ API for writing Starcraft II bots.
 My pet projects can be found at [github](https://github.com/alkurbatov).
 
-Also, I have experience in:
+Also, I have experience in:  
 * careful support of large legacy source code base;
 * REST API design;
 * packaging of npm, rpm and pip packets.
@@ -49,7 +49,7 @@ Also, I have experience in:
 
 
 ### Experience
-[Acronis](https://acronis.com)  
+**[Acronis](https://acronis.com)**  
 2020.02 - present, Team Leader.  
 
 * Working on the Acronis Cyber Infrastructure product (JavaScript, VueJs, Vuex, Vue-router, CSS), unit-tests (Jest).
@@ -58,7 +58,7 @@ Also, I have experience in:
 * Adopted and integrated functional tests approach (TestCafe, Docker Compose).
 * Functional tests development. (TestCafe).
 
-[Virtuozzo Research](https://virtuozzo.com)  
+**[Virtuozzo Research](https://virtuozzo.com)**  
 2016.01 - 2020.02, Senior Software Developer.  
 
 * Support and development of Virtuozzo Automator (former Parallels Virtual Automation), migration to CentOs 7 (C++, boost, XSLT, XML, JavaScript, rpm).
@@ -76,7 +76,7 @@ Also, I have experience in:
 * Worked on frontend of Virtuozzo Hyperconverged Infrastructure (JavaScript, VueJs, Vuex, Vue-router, CSS).
 * Designed and developed backend emulator to speed up development of frontend features (OpenAPI 3, NodeJS, fastify).
 
-[Parallels Research](https://www.parallels.com)  
+**[Parallels Research](https://www.parallels.com)**  
 2012.07 - 2015.12, Software Developer.  
 
 * Worked on the Anaconda installer for Parallels Cloud Server 6 (Python 2+, PyQt).
@@ -85,7 +85,7 @@ Also, I have experience in:
 * Developed VDI solution based on Parallels Virtual Automation and Parallels Virtuozzo Containers for Windows (C++, WinApi, XSLT, XML, JavaScript, SOAP).
 * Led team of 2 full-stack developers.
 
-[Concern Morinformsystem - Agat](https://concern-agat.ru/en/)  
+**[Concern Morinformsystem - Agat](https://concern-agat.ru/en/)**  
 2008.07 - 2012.07, Software Developer.  
 
 * Worked on UI of submarine management system (C++, Qt, Xlib, lXpm), manual and unit testing.

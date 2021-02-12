@@ -41,7 +41,7 @@ permalink: /cv/ru
 Увлекаюсь катанием на коньках, пишу ботов для StarCraft II, поддерживаю C++ API для разработки ботов.  
 Эти и другие мои проекты можно посмотреть на [github](https://github.com/alkurbatov).
 
-Также имею опыт:
+Также имею опыт:  
 * поддержки и сопровождения осиротевшего легаси кода в проектах с большой историей;
 * проектирования REST API;
 * сборки npm, rpm и pip пакетов.
@@ -53,7 +53,7 @@ permalink: /cv/ru
 
 
 ### Профессиональный опыт
-[Acronis](https://acronis.com)  
+**[Acronis](https://acronis.com)**  
 02.2020 - по настоящее время, руководитель группы разработки.  
 
 * Участие в разработке фронтенд-части Acronis Cyber Infrastructure (JavaScript, VueJs, Vuex, Vue-router, CSS), написание юнит-тестов (Jest).
@@ -62,7 +62,7 @@ permalink: /cv/ru
 * Организация процесса автоматизированного тестирования с нуля (TestCafe, Docker Compose).
 * Написание функциональных тестов (TestCafe).
 
-[Virtuozzo Research](https://virtuozzo.com)  
+**[Virtuozzo Research](https://virtuozzo.com)**  
 01.2016 - 02.2020, старший программист-разработчик.  
 
 * Поддержка и дальнейшее развитие продукта Virtuozzo Automator (бывший Parallels Virtual Automation), портирование на CentOs 7 (C++, boost, XSLT, XML, JavaScript, rpm).
@@ -80,16 +80,16 @@ permalink: /cv/ru
 * Участие в разработке Virtuozzo Hyperconverged Infrastructure (JavaScript, VueJs, Vuex, Vue-router, CSS).
 * Разработка и сопровождение эмулятора бэкенда на базе OpenAPI схемы для ускорения разработки фронтендерских задач  (OpenAPI 3, NodeJS, fastify).
 
-[Parallels Research](https://www.parallels.com)  
+**[Parallels Research](https://www.parallels.com)**  
 07.2012 - 12.2015, инженер-программист  
 
 * Расширение и адаптация инсталлятора Anaconda для Parallels Cloud Server 6 (Python 2+, PyQt).
 * Поддержка и дальнейшее развитие продуктов Parallels Cloud Server 6 и Virtuozzo Server 7 (C, C++, boost, libvirt, Qt, Python, awk, bash).
 * Разработка пользовательского веб интерфейса для продукта Parallels Virtual Automation, full stack (XSLT, XML, Javascript, C++, boost, rpm, SOAP).
-* Адаптация и расширение продукта Parallels Virtual Automation для использования технологии Virtual Desktop Infrastructure (VDI) на базе Parallels Virtuozzo Containers for Windows (C++, WinApi, XSLT, XML, JavaScript, SOAP).
+* Разработка VDI решения на базе Parallels Virtual Automation и Parallels Virtuozzo Containers for Windows (C++, WinApi, XSLT, XML, JavaScript, SOAP).
 * Управления командой из двух фулл-стек разработчиков.
 
-[Концерн "Моринформсистема - Агат"](https://concern-agat.ru)  
+**[Концерн "Моринформсистема - Агат"](https://concern-agat.ru)**  
 07.2008 - 07.2012, инженер-программист  
 
 * Разработка графического интерфейса управления оператора корабельного информационно-управляющего комплекса (C++, Qt, Xlib, lXpm).
