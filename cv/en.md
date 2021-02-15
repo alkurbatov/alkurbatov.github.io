@@ -5,6 +5,8 @@ permalink: /cv/en
 ---
 [Русская версия]({% link cv/ru.md %})
 
+# Kurbatov Alexander
+
 ### Personal Info
 * Work experience: 12 years.
 * Location: Russia, Moscow
@@ -38,6 +40,7 @@ I enjoy ice skating, develop open-source C++ API for writing Starcraft II bots.
 My pet projects can be found at [github](https://github.com/alkurbatov).
 
 Also, I have experience in:  
+
 * careful support of large legacy source code base;
 * REST API design;
 * packaging of npm, rpm and pip packets.
