@@ -33,8 +33,8 @@ permalink: /cv/en
 
 
 ### About
-Responsible, purposeful, passionate about technology. I have strong software engineering experience, including vast number of hard and soft skills, and team leading experience, can work as full-stack developer.
-I enjoy ice skating, develop open source C++ API for writing Starcraft II bots.
+Responsible, fast learner, passionate about technology. I have strong software engineering experience, including vast number of hard and soft skills, and team leading experience, can work as a full-stack developer.
+I enjoy ice skating, develop open-source C++ API for writing Starcraft II bots.
 My pet projects can be found at [github](https://github.com/alkurbatov).
 
 Also, I have experience in:  
