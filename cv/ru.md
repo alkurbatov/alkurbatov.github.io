@@ -26,6 +26,7 @@ permalink: /cv/ru
 ### Профессиональные навыки
 * C++14, STL, templates, googletest.
 * Python.
+* JavaScript, VueJs.
 * Linux (CentOs, Fedora).
 * REST, websockets, OpenAPI.
 * OpenStack.
@@ -39,8 +40,8 @@ permalink: /cv/ru
 
 
 ### О себе
-Ответственный, ориентирован на результат, быстро учусь. Обладаю большим набором hard и soft skills, имею широкий опыт в разных областях, связанных с разработкой ПО и не только.
-Увлекаюсь катанием на коньках, пишу ботов для StarCraft II, поддерживаю C++ API для разработки ботов.  
+Любопытный и любознательный, быстро учусь, имею широкий набор hard и soft skills.
+Увлекаюсь катанием на коньках, скриптовыми AI, поддерживаю C++ API для разработки ботов.  
 Эти и другие мои проекты можно посмотреть на [github](https://github.com/alkurbatov).
 
 Также имею опыт:  
@@ -48,7 +49,6 @@ permalink: /cv/ru
 * поддержки и сопровождения осиротевшего легаси кода в проектах с большой историей;
 * проектирования REST API;
 * сборки npm, rpm и pip пакетов.
-* экспериментов с машинным обучением (Q-Learning, SARSA);
 * анализа требований к задаче, составление Feature Description, разделение крупной задачи на более мелкие, написание Test Requirements Documents;
 * проведения собеседований;
 * дизайна и разработки пользовательских интерфейсов (UI/UX).
@@ -59,10 +59,11 @@ permalink: /cv/ru
 **[Acronis](https://acronis.com)**  
 02.2020 - по настоящее время, руководитель группы разработки.  
 
-* Участие в разработке фронтенд-части Acronis Cyber Infrastructure (JavaScript, VueJs, Vuex, Vue-router, CSS), написание юнит-тестов (Jest).
+* Участие в разработке фронтенд-части Acronis Cyber Infrastructure (JavaScript, VueJs 2, Vuex, CSS), написание юнит-тестов (Jest).
 * Управление командой frontend разработчиков (шесть человек).
 * Улучшение внутреннего инструмента автоматизированного разворачивания продукта во внутренней инфраструктуре компании (Python, Heat).
 * Организация процесса автоматизированного тестирования с нуля (TestCafe, Docker Compose).
+* Создание сервиса отчетов для получения подробробной информации о результате прогона тестов для пулл реквестов (Python, Allure).
 * Написание функциональных тестов (TestCafe).
 
 **[Virtuozzo Research](https://virtuozzo.com)**  
@@ -80,8 +81,8 @@ permalink: /cv/ru
 * Внедрение, разработка и сопровождение документации на базе OpenAPI 3.
 * Управление командой frontend разработчиков (пять человек).
 * Разворачивание и сопровождение private npm registry (Verdaccio).
-* Участие в разработке Virtuozzo Hyperconverged Infrastructure (JavaScript, VueJs, Vuex, Vue-router, CSS).
-* Разработка и сопровождение эмулятора бэкенда на базе OpenAPI схемы для ускорения разработки фронтендерских задач  (OpenAPI 3, NodeJS, fastify).
+* Участие в разработке Virtuozzo Hyperconverged Infrastructure (JavaScript, VueJs 2, Vuex, CSS).
+* Разработка и сопровождение эмулятора бэкенда на базе OpenAPI схемы для ускорения разработки фронтендерских задач (OpenAPI 3, NodeJS, fastify).
 
 **[Parallels Research](https://www.parallels.com)**  
 07.2012 - 12.2015, инженер-программист  

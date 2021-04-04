@@ -21,6 +21,7 @@ permalink: /cv/en
 ### Skills
 * C++14, STL, templates, googletest.
 * Python.
+* JavaScript, VueJs.
 * Linux (CentOs, Fedora).
 * REST, websockets, OpenAPI.
 * OpenStack.
@@ -35,7 +36,7 @@ permalink: /cv/en
 
 
 ### About
-Responsible, fast learner, passionate about technology. I have strong software engineering experience, including vast number of hard and soft skills, and team leading experience, can work as a full-stack developer.
+Curious, inquisitive, fast learner, passionate about technology. I have vast number of hard and soft skills.
 I enjoy ice skating, develop open-source C++ API for writing Starcraft II bots.
 My pet projects can be found at [github](https://github.com/alkurbatov).
 
@@ -44,7 +45,6 @@ Also, I have experience in:
 * careful support of large legacy source code base;
 * REST API design;
 * packaging of npm, rpm and pip packets.
-* machine learning experiments (Q-Learning, SARSA);
 * writing technical requirements, feature descriptions and test requirements;
 * job interviewing;
 * UI/UX design;
@@ -55,10 +55,11 @@ Also, I have experience in:
 **[Acronis](https://acronis.com)**  
 2020.02 - present, Team Leader.  
 
-* Working on the Acronis Cyber Infrastructure product (JavaScript, VueJs, Vuex, Vue-router, CSS), unit-tests (Jest).
+* Working on the Acronis Cyber Infrastructure product (JavaScript, VueJs 2, Vuex, CSS), unit-tests (Jest).
 * Leading team of 6 frontend developers.
-* Improved internal automated product deployment tools. (Python, Heat).
+* Improved internal automated product deployment tools (Python, Heat).
 * Adopted and integrated functional tests approach (TestCafe, Docker Compose).
+* Developer reports server for pull requests CI results (Python, Allure).
 * Functional tests development. (TestCafe).
 
 **[Virtuozzo Research](https://virtuozzo.com)**  
@@ -71,12 +72,12 @@ Also, I have experience in:
 * Worked on frontend of Virtuozzo Application Platform (JavaScript, ReactJS, Redux, MobX, CSS, SCSS).
 * Worked on backend of Virtuozzo Hyperconverged Infrastructure (Python 3.6), unit-tests (Docker, Python 3.6), extended OpenStack components (Cinder, Nova, Glance, Keystone, Python 2.7).
 * Designed authentication layer in Virtuozzo Application Platform (Keystone, FeathersJS, Kubernetes) and Virtuozzo Hyperconverged Infrastructure (Keystone).
-* Designed and implemented notification microservice based on internal OpenStack event system (Python 2.7, oslo.messaging, Docker, kolla)
+* Designed and implemented notification microservice based on internal OpenStack event system (Python 2.7, oslo.messaging, Docker, kolla).
 * Designed architecture of Virtuozzo Hyperconverged Infrastructure Self Service Portal (Python 3.6, Flask, Marshmallow, gevent, uwsgi).
 * Adopted and developed REST API documentation using OpenAPI 3.
 * Led team of 5 frontend developers.
 * Deployed and supported private npm registry (Verdaccio).
-* Worked on frontend of Virtuozzo Hyperconverged Infrastructure (JavaScript, VueJs, Vuex, Vue-router, CSS).
+* Worked on frontend of Virtuozzo Hyperconverged Infrastructure (JavaScript, VueJs 2, Vuex, CSS).
 * Designed and developed backend emulator to speed up development of frontend features (OpenAPI 3, NodeJS, fastify).
 
 **[Parallels Research](https://www.parallels.com)**  
