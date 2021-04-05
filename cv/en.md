@@ -21,7 +21,7 @@ permalink: /cv/en
 ### Skills
 * C++14, STL, templates, googletest.
 * Python.
-* JavaScript, VueJs.
+* JavaScript, VueJs, Jest.
 * Linux (CentOs, Fedora).
 * REST, websockets, OpenAPI.
 * OpenStack.
@@ -36,17 +36,16 @@ permalink: /cv/en
 
 
 ### About
-Curious, inquisitive, fast learner, passionate about technology. I have vast number of hard and soft skills.
-I enjoy ice skating, develop open-source C++ API for writing Starcraft II bots.
+Curious, inquisitive, fast learner, easily dive into legacy code, passionate about technology. I have vast number of hard and soft skills.
+I enjoy writing scripted AIs, develop open-source C++ API for writing Starcraft II bots.
 My pet projects can be found at [github](https://github.com/alkurbatov).
 
 Also, I have experience in:  
 
-* careful support of large legacy source code base;
 * REST API design;
-* packaging of npm, rpm and pip packets.
 * writing technical requirements, feature descriptions and test requirements;
 * job interviewing;
+* packaging of npm, rpm and pip packets.
 * UI/UX design;
 * fostering two cats :)
 
@@ -55,42 +54,56 @@ Also, I have experience in:
 **[Acronis](https://acronis.com)**  
 2020.02 - present, Team Leader.  
 
-* Working on the Acronis Cyber Infrastructure product (JavaScript, VueJs 2, Vuex, CSS), unit-tests (Jest).
+**Technology Stack**  
+JavaScript, VueJs 2, Vuex, Jest, TestCafe, Python 2.7, Python 3.6, Allure, Docker.  
+
+* Working on the Acronis Cyber Infrastructure product.
 * Leading team of 6 frontend developers.
-* Improved internal automated product deployment tools (Python, Heat).
-* Adopted and integrated functional tests approach (TestCafe, Docker Compose).
-* Developer reports server for pull requests CI results (Python, Allure).
-* Functional tests development. (TestCafe).
+* Improved internal automated product deployment tools.
+* Adopted and integrated functional tests approach.
+* Developer reports server for pull requests CI results.
+* E2E tests development.
 
 **[Virtuozzo Research](https://virtuozzo.com)**  
 2016.01 - 2020.02, Senior Software Developer.  
 
-* Support and development of Virtuozzo Automator (former Parallels Virtual Automation), migration to CentOs 7 (C++, boost, XSLT, XML, JavaScript, rpm).
-* Created Slack bot for fast build notifications delivery (NodeJS).
-* Led team of 4 backend developers, adoption of agile methodology (kanban).
-* Worked on backend of Virtuozzo Application Platform (Kubernetes, Docker, NodeJS, FeathersJS, Go), unit-tests (Jest).
-* Worked on frontend of Virtuozzo Application Platform (JavaScript, ReactJS, Redux, MobX, CSS, SCSS).
-* Worked on backend of Virtuozzo Hyperconverged Infrastructure (Python 3.6), unit-tests (Docker, Python 3.6), extended OpenStack components (Cinder, Nova, Glance, Keystone, Python 2.7).
-* Designed authentication layer in Virtuozzo Application Platform (Keystone, FeathersJS, Kubernetes) and Virtuozzo Hyperconverged Infrastructure (Keystone).
-* Designed and implemented notification microservice based on internal OpenStack event system (Python 2.7, oslo.messaging, Docker, kolla).
-* Designed architecture of Virtuozzo Hyperconverged Infrastructure Self Service Portal (Python 3.6, Flask, Marshmallow, gevent, uwsgi).
+**Technology Stack**  
+C++, Python 2.7, Python 3.4, Flask, Marshmallow, Gevent,  
+JavaScript, XSLT, React, MobX, VueJs 2, Jest, NodeJs, FeathersJs,  
+Docker, RPM, OpenAPI 3, OpenStack, Kubernetes.  
+
+* Support and development of Virtuozzo Automator (former Parallels Virtual Automation), migration to CentOs 7.
+* Created Slack bot for fast build notifications delivery.
+* Led team of 4 backend developers, adoption of agile methodology.
+* Worked on backend of Virtuozzo Application Platform.
+* Worked on frontend of Virtuozzo Application Platform.
+* Worked on backend of Virtuozzo Hyperconverged Infrastructure, extended OpenStack components.
+* Designed authentication layer in Virtuozzo Application Platform (Keystone, FeathersJS, Kubernetes) and Virtuozzo Hyperconverged Infrastructure.
+* Designed and implemented notification microservice based on internal OpenStack event system.
+* Designed architecture of Virtuozzo Hyperconverged Infrastructure Self Service Portal.
 * Adopted and developed REST API documentation using OpenAPI 3.
 * Led team of 5 frontend developers.
-* Deployed and supported private npm registry (Verdaccio).
-* Worked on frontend of Virtuozzo Hyperconverged Infrastructure (JavaScript, VueJs 2, Vuex, CSS).
-* Designed and developed backend emulator to speed up development of frontend features (OpenAPI 3, NodeJS, fastify).
+* Deployed and supported private npm registry Verdaccio.
+* Worked on frontend of Virtuozzo Hyperconverged Infrastructure.
+* Designed and developed backend emulator to speed up development of frontend features.
 
 **[Parallels Research](https://www.parallels.com)**  
 2012.07 - 2015.12, Software Developer.  
 
-* Worked on the Anaconda installer for Parallels Cloud Server 6 (Python 2+, PyQt).
-* Worked on Parallels Cloud Server 6 and Virtuozzo Server 7 (C, C++, boost, libvirt, Qt, Python, awk, bash).
-* Supported and improved user interface for Parallels Virtual Automation, full stack (XSLT, XML, Javascript, C++, boost, rpm, SOAP).
-* Developed VDI solution based on Parallels Virtual Automation and Parallels Virtuozzo Containers for Windows (C++, WinApi, XSLT, XML, JavaScript, SOAP).
+**Technology Stack**  
+Python 2.7, PyQt, C/C++, boost, Qt 4, WinAPI, JavaScript, XSLT, SOAP, RPM.  
+
+* Worked on the Anaconda installer for Parallels Cloud Server 6.
+* Worked on Parallels Cloud Server 6 and Virtuozzo Server 7.
+* Supported and improved user interface for Parallels Virtual Automation, full stack.
+* Developed VDI solution based on Parallels Virtual Automation and Parallels Virtuozzo Containers for Windows.
 * Led team of 2 full-stack developers.
 
 **[Concern Morinformsystem - Agat](https://concern-agat.ru/en/)**  
 2008.07 - 2012.07, Software Developer.  
+
+**Technology Stack**  
+C++, Qt 1.41, XLib.  
 
 * Worked on UI of submarine management system (C++, Qt, Xlib, lXpm), manual and unit testing.
 * System administration of two developer stands under Linux (RedHat).

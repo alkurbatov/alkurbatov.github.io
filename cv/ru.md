@@ -26,7 +26,7 @@ permalink: /cv/ru
 ### Профессиональные навыки
 * C++14, STL, templates, googletest.
 * Python.
-* JavaScript, VueJs.
+* JavaScript, VueJs, Jest.
 * Linux (CentOs, Fedora).
 * REST, websockets, OpenAPI.
 * OpenStack.
@@ -40,17 +40,16 @@ permalink: /cv/ru
 
 
 ### О себе
-Любопытный и любознательный, быстро учусь, имею широкий набор hard и soft skills.
-Увлекаюсь катанием на коньках, скриптовыми AI, поддерживаю C++ API для разработки ботов.  
-Эти и другие мои проекты можно посмотреть на [github](https://github.com/alkurbatov).
+Любопытный и любознательный, быстро учусь, легко разбираюсь в legacy коде, обладаю  широкии набором hard и soft skills.
+Увлекаюсь написанием скриптовых AI, поддерживаю C++ API для разработки ботов.  
+Эти и другие мои проекты можно найти на [github](https://github.com/alkurbatov).
 
 Также имею опыт:  
 
-* поддержки и сопровождения осиротевшего легаси кода в проектах с большой историей;
 * проектирования REST API;
-* сборки npm, rpm и pip пакетов.
 * анализа требований к задаче, составление Feature Description, разделение крупной задачи на более мелкие, написание Test Requirements Documents;
 * проведения собеседований;
+* сборки npm, rpm и pip пакетов.
 * дизайна и разработки пользовательских интерфейсов (UI/UX).
 * воспитания двух кошек :)
 
@@ -59,44 +58,58 @@ permalink: /cv/ru
 **[Acronis](https://acronis.com)**  
 02.2020 - по настоящее время, руководитель группы разработки.  
 
-* Участие в разработке фронтенд-части Acronis Cyber Infrastructure (JavaScript, VueJs 2, Vuex, CSS), написание юнит-тестов (Jest).
+**Стек технологий**  
+JavaScript, VueJs 2, Vuex, Jest, TestCafe, Python 2.7, Python 3.6, Allure, Docker.  
+
+* Участие в разработке фронтенд-части Acronis Cyber Infrastructure.
 * Управление командой frontend разработчиков (шесть человек).
-* Улучшение внутреннего инструмента автоматизированного разворачивания продукта во внутренней инфраструктуре компании (Python, Heat).
-* Организация процесса автоматизированного тестирования с нуля (TestCafe, Docker Compose).
-* Создание сервиса отчетов для получения подробробной информации о результате прогона тестов для пулл реквестов (Python, Allure).
-* Написание функциональных тестов (TestCafe).
+* Улучшение внутреннего инструмента автоматизированного разворачивания продукта во внутренней инфраструктуре компании.
+* Организация процесса автоматизированного тестирования с нуля.
+* Создание сервиса отчетов для получения подробробной информации о результате прогона тестов для пулл реквестов.
+* Написание E2E тестов.
 
 **[Virtuozzo Research](https://virtuozzo.com)**  
 01.2016 - 02.2020, старший программист-разработчик.  
 
-* Поддержка и дальнейшее развитие продукта Virtuozzo Automator (бывший Parallels Virtual Automation), портирование на CentOs 7 (C++, boost, XSLT, XML, JavaScript, rpm).
-* Разработка Slack бота для получения нотификаций о новых сборках продукта (NodeJS).
-* Управления командой из четырёх backend разработчиков, внедрение agile методологии (kanban).
-* Разработка серверной части продукта Virtuozzo Application Platform (Kubernetes, Docker, NodeJS, FeathersJS, Go), написание юнит-тестов (Jest).
-* Разработка веб интерфейса управления продуктом Virtuozzo Application Platform (JavaScript, ReactJS, Redux, MobX, CSS, SCSS).
-* Разработка серверной части продукта Virtuozzo Hyperconverged Infrastructure (Python 3.6), написание юнит и интеграционных тестов (Docker, Python 3.6), расширение компонентов OpenStack (Cinder, Nova, Glance, Keystone, Python 2.7).
-* Разработка архитектуры аутентификации и авторизации в продуктах Virtuozzo Application Platform (Keystone, FeathersJS, Kubernetes) и Virtuozzo Hyperconverged Infrastructure (Keystone).
-* Проектирование и разработка сервиса формирования нотификаций на основе внутренних событий OpenStack (Python 2.7, oslo.messaging, Docker, kolla)
-* Разработка архитектуры Virtuozzo Hyperconverged Infrastructure Self Service Portal (Python 3.6, Flask, Marshmallow, gevent, uwsgi).
+**Стек технологий**  
+C++, Python 2.7, Python 3.4, Flask, Marshmallow, Gevent,  
+JavaScript, XSLT, React, MobX, VueJs 2, Jest, NodeJs, FeathersJs,  
+Docker, RPM, OpenAPI 3, OpenStack, Kubernetes.  
+
+* Поддержка и дальнейшее развитие продукта Virtuozzo Automator (бывший Parallels Virtual Automation), портирование на CentOs 7.
+* Разработка Slack бота для получения нотификаций о новых сборках продукта.
+* Управления командой из четырёх backend разработчиков, внедрение kanban методологии.
+* Разработка серверной части продукта Virtuozzo Application Platform.
+* Разработка веб интерфейса управления продуктом Virtuozzo Application Platform.
+* Разработка серверной части продукта Virtuozzo Hyperconverged Infrastructure, расширение компонентов OpenStack.
+* Разработка архитектуры аутентификации и авторизации в продуктах Virtuozzo Application Platform и Virtuozzo Hyperconverged Infrastructure.
+* Проектирование и разработка сервиса формирования нотификаций на основе внутренних событий OpenStack.
+* Разработка архитектуры Virtuozzo Hyperconverged Infrastructure Self Service Portal.
 * Внедрение, разработка и сопровождение документации на базе OpenAPI 3.
 * Управление командой frontend разработчиков (пять человек).
-* Разворачивание и сопровождение private npm registry (Verdaccio).
-* Участие в разработке Virtuozzo Hyperconverged Infrastructure (JavaScript, VueJs 2, Vuex, CSS).
-* Разработка и сопровождение эмулятора бэкенда на базе OpenAPI схемы для ускорения разработки фронтендерских задач (OpenAPI 3, NodeJS, fastify).
+* Разворачивание и сопровождение private npm registry Verdaccio.
+* Участие в разработке Virtuozzo Hyperconverged Infrastructure.
+* Разработка и сопровождение эмулятора бэкенда на базе OpenAPI схемы для ускорения разработки фронтендерских задач.
 
 **[Parallels Research](https://www.parallels.com)**  
 07.2012 - 12.2015, инженер-программист  
 
-* Расширение и адаптация инсталлятора Anaconda для Parallels Cloud Server 6 (Python 2+, PyQt).
-* Поддержка и дальнейшее развитие продуктов Parallels Cloud Server 6 и Virtuozzo Server 7 (C, C++, boost, libvirt, Qt, Python, awk, bash).
-* Разработка пользовательского веб интерфейса для продукта Parallels Virtual Automation, full stack (XSLT, XML, Javascript, C++, boost, rpm, SOAP).
-* Разработка VDI решения на базе Parallels Virtual Automation и Parallels Virtuozzo Containers for Windows (C++, WinApi, XSLT, XML, JavaScript, SOAP).
+**Стек технологий**  
+Python 2.7, PyQt, C/C++, boost, Qt 4, WinAPI, JavaScript, XSLT, SOAP, RPM.  
+
+* Расширение и адаптация инсталлятора Anaconda для Parallels Cloud Server 6.
+* Поддержка и дальнейшее развитие продуктов Parallels Cloud Server 6 и Virtuozzo Server 7.
+* Разработка пользовательского веб интерфейса для продукта Parallels Virtual Automation, full stack.
+* Разработка VDI решения на базе Parallels Virtual Automation и Parallels Virtuozzo Containers for Windows.
 * Управления командой из двух фулл-стек разработчиков.
 
 **[Концерн "Моринформсистема - Агат"](https://concern-agat.ru)**  
 07.2008 - 07.2012, инженер-программист  
 
-* Разработка графического интерфейса управления оператора корабельного информационно-управляющего комплекса (C++, Qt, Xlib, lXpm).
+**Стек технологий**  
+C++, Qt 1.41, XLib.  
+
+* Разработка графического интерфейса управления оператора корабельного информационно-управляющего комплекса.
 * Ручное и unit тестирование своего кода.
-* Системное администрирование двух стендов сопровождения и разработка под управлением Linux (МСВС).
+* Системное администрирование двух стендов сопровождения и разработка под управлением МСВС Linux.
 * Участие в разработке технического задания, написание документации.
