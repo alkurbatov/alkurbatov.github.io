@@ -37,7 +37,7 @@ permalink: /cv/en
 
 ### About
 Curious, inquisitive, fast learner, easily dive into legacy code, passionate about technology. I have vast number of hard and soft skills.
-I enjoy writing scripted AIs, develop open-source C++ API for writing Starcraft II bots.
+I enjoy writing scripted AIs, interested in Machine Learning, develop open-source C++ API for writing Starcraft II bots.
 My pet projects can be found at [github](https://github.com/alkurbatov).
 
 Also, I have experience in:  
@@ -55,7 +55,7 @@ Also, I have experience in:
 2020.02 - present, Team Leader.  
 
 **Technology Stack**  
-JavaScript, VueJs 2, Vuex, Jest, TestCafe, Python 2.7, Python 3.6, Allure, Docker.  
+JavaScript, NodeJS, VueJs 2, Vuex, Jest, TestCafe, Python 2.7, Python 3.6, Allure, Docker.  
 
 * Working on the Acronis Cyber Infrastructure product.
 * Leading team of 6 frontend developers.
