@@ -63,6 +63,7 @@ JavaScript, NodeJS, VueJs 2, Vuex, Jest, TestCafe, Python 2.7, Python 3.6, Allur
 * Adopted and integrated functional tests approach.
 * Developer reports server for pull requests CI results.
 * E2E tests development.
+* Implemented automatic statistics gathering per developers team with detailed reports created every sprint.
 
 **[Virtuozzo Research](https://virtuozzo.com)**  
 2016.01 - 2020.02, Senior Software Developer.  
