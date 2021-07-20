@@ -8,7 +8,7 @@ permalink: /cv/ru
 # Курбатов Александр
 
 ### Личная информация
-* Опыт работы: 12 лет.
+* Опыт работы: 13 лет.
 * Дата рождения: 13.08.1984.
 * Гражданство: РФ.
 * Проживание: г. Москва, ближайшее метро Стахановская/МЦК Нижегородская.
@@ -40,7 +40,7 @@ permalink: /cv/ru
 
 
 ### О себе
-Любопытный и любознательный, быстро учусь, легко разбираюсь в legacy коде, обладаю  широкии набором hard и soft skills.
+Любопытный и любознательный, быстро учусь, легко разбираюсь в legacy коде, обладаю широким набором hard и soft skills.
 Увлекаюсь написанием скриптовых AI, интересуюсь машинным обучением, поддерживаю C++ API для разработки ботов.  
 Эти и другие мои проекты можно найти на [github](https://github.com/alkurbatov).
 
@@ -50,64 +50,71 @@ permalink: /cv/ru
 * анализа требований к задаче, составления Feature Description и разделения крупной задачи на более мелкие;
 * проведения собеседований;
 * сборки npm, rpm и pip пакетов.
-* дизайна и разработки пользовательских интерфейсов (UI/UX).
+* дизайна и разработки пользовательских интерфейсов.
 * воспитания двух кошек :)
 
 
 ### Профессиональный опыт
-**[Acronis](https://acronis.com)**  
-02.2020 - по настоящее время, руководитель группы разработки.  
+#### [Acronis](https://acronis.com)
+02.2020 - по настоящее время, ведущий программист-разработчик.  
 
-**Стек технологий**  
-JavaScript, NodeJS, VueJs 2, Vuex, Jest, TestCafe, Python 2.7, Python 3.6, Allure, Docker.  
+**Разработка [Acronis Cyber Infrastructure](https://www.acronis.com/en-us/products/cyber-infrastructure/)**  
+JavaScript, NodeJS, VueJs 2, Vuex, Jest, TestCafe, Python 3.6, Allure, Docker.  
 
-* Участие в разработке фронтенд-части Acronis Cyber Infrastructure.
 * Управление командой frontend разработчиков (шесть человек).
 * Улучшение внутреннего инструмента автоматизированного разворачивания продукта во внутренней инфраструктуре компании.
-* Организация процесса автоматизированного тестирования с нуля.
-* Создание сервиса отчетов для получения подробной информации о результате прогона тестов для пулл реквестов.
+* Организация процесса E2E тестирования с нуля.
 * Написание E2E тестов.
+* Создание сервиса отчетов для получения подробной информации о результате прогона тестов для пулл реквестов.
 * Реализация автоматизированного сбора статистики по командам разработчиков с формированием отчетов каждый спринт.
 
-**[Virtuozzo Research](https://virtuozzo.com)**  
+#### [Virtuozzo Research](https://virtuozzo.com)
 01.2016 - 02.2020, старший программист-разработчик.  
 
-**Стек технологий**  
-C++, Python 2.7, Python 3.4, Flask, Marshmallow, Gevent,  
-JavaScript, XSLT, React, MobX, VueJs 2, Jest, NodeJs, FeathersJs,  
-Docker, RPM, OpenAPI 3, OpenStack, Kubernetes.  
+**Разработка [Virtuozzo Hyperconverged Infrastructure](https://www.virtuozzo.com/virtuozzo-hybrid-infrastructure/)**  
+Python 2.7, Python 3.4, Flask, Marshmallow, Gevent,  
+JavaScript, VueJs 2, Jest, NodeJs, Docker, OpenAPI 3, OpenStack.  
 
-* Поддержка и дальнейшее развитие продукта Virtuozzo Automator (бывший Parallels Virtual Automation), портирование на CentOs 7.
-* Разработка Slack бота для получения нотификаций о новых сборках продукта.
-* Управления командой из четырёх backend разработчиков, внедрение kanban методологии.
-* Разработка серверной части продукта Virtuozzo Application Platform.
-* Разработка веб интерфейса управления продуктом Virtuozzo Application Platform.
-* Разработка серверной части продукта Virtuozzo Hyperconverged Infrastructure, расширение компонентов OpenStack.
-* Разработка архитектуры аутентификации и авторизации в продуктах Virtuozzo Application Platform и Virtuozzo Hyperconverged Infrastructure.
+* Full stack разработка продукта, расширение компонентов OpenStack.
+* Разработка архитектуры аутентификации и авторизации.
 * Проектирование и разработка сервиса формирования нотификаций на основе внутренних событий OpenStack.
-* Разработка архитектуры Virtuozzo Hyperconverged Infrastructure Self Service Portal.
+* Разработка архитектуры Self Service Portal.
 * Внедрение, разработка и сопровождение документации на базе OpenAPI 3.
 * Управление командой frontend разработчиков (пять человек).
 * Разворачивание и сопровождение private npm registry Verdaccio.
-* Участие в разработке Virtuozzo Hyperconverged Infrastructure.
 * Разработка и сопровождение эмулятора бэкенда на базе OpenAPI схемы для ускорения разработки фронтендерских задач.
 
-**[Parallels Research](https://www.parallels.com)**  
-07.2012 - 12.2015, инженер-программист  
+**Разработка Virtuozzo Application Platform**  
+JavaScript, React, MobX, NodeJs, FeathersJs, Docker, RPM, Kubernetes.  
 
-**Стек технологий**  
-Python 2.7, PyQt, C/C++, boost, Qt 4, WinAPI, JavaScript, XSLT, SOAP, RPM.  
+* Разработка бета-версии продукта.
+* Разработка архитектуры аутентификации и авторизации.
 
-* Расширение и адаптация инсталлятора Anaconda для Parallels Cloud Server 6.
-* Поддержка и дальнейшее развитие продуктов Parallels Cloud Server 6 и Virtuozzo Server 7.
-* Разработка пользовательского веб интерфейса для продукта Parallels Virtual Automation, full stack.
+**Разработка Virtuozzo Automator (бывший Parallels Virtual Automation)**  
+C++, Python 2.7, JavaScript, XSLT, NodeJs, RPM.  
+
+* Организация миграции продукта на CentOs 7 и Virtuozzo Server 7.
+* Разработка Slack бота для получения нотификаций о новых сборках продукта.
+* Управления командой из четырёх backend разработчиков, внедрение kanban методологии.
+
+#### [Parallels Research](https://www.parallels.com)
+07.2012 - 12.2015, инженер-программист.  
+
+**Разработка Parallels Virtual Automation**  
+Python 2.7, C/C++, boost, WinAPI, JavaScript, XSLT, SOAP, RPM.  
+
+* Разработка пользовательского веб интерфейса и бэкенда для продукта Parallels Virtual Automation, full stack.
 * Разработка VDI решения на базе Parallels Virtual Automation и Parallels Virtuozzo Containers for Windows.
 * Управления командой из двух фулл-стек разработчиков.
 
-**[Концерн "Моринформсистема - Агат"](https://concern-agat.ru)**  
-07.2008 - 07.2012, инженер-программист  
+**Разработка Parallels Cloud Server 6 и 7**  
+Python 2.7, PyQt, C/C++, Qt 4, RPM.  
 
-**Стек технологий**  
+* Разработка инфраструктуры управления виртуальными машинами и ОС контейнерами.
+* Расширение и адаптация инсталлятора Anaconda для установки продукта.
+
+#### [Концерн "Моринформсистема - Агат"](https://concern-agat.ru)
+07.2008 - 07.2012, инженер-программист.  
 C++, Qt 1.41, XLib.  
 
 * Разработка графического интерфейса управления оператора корабельного информационно-управляющего комплекса.

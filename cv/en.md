@@ -8,7 +8,7 @@ permalink: /cv/en
 # Kurbatov Alexander
 
 ### Personal Info
-* Work experience: 12 years.
+* Work experience: 13 years.
 * Location: Russia, Moscow
 * Email: [sandro.kurbatov@gmail.com](mailto:sandro.kurbatov@gmail.com)
 
@@ -36,7 +36,7 @@ permalink: /cv/en
 
 
 ### About
-Curious, inquisitive, fast learner, easily dive into legacy code, passionate about technology. I have vast number of hard and soft skills.
+Curious, inquisitive, fast learner, easily dive into legacy code, passionate about technology. I have vast number of useful hard and soft skills.
 I enjoy writing scripted AIs, interested in Machine Learning, develop open-source C++ API for writing Starcraft II bots.
 My pet projects can be found at [github](https://github.com/alkurbatov).
 
@@ -52,58 +52,65 @@ Also, I have experience in:
 
 ### Experience
 **[Acronis](https://acronis.com)**  
-2020.02 - present, Team Leader.  
+2020.02 - present, Lead Software Developer.  
 
-**Technology Stack**  
-JavaScript, NodeJS, VueJs 2, Vuex, Jest, TestCafe, Python 2.7, Python 3.6, Allure, Docker.  
+**Worked on [Acronis Cyber Infrastructure](https://www.acronis.com/en-us/products/cyber-infrastructure/)**  
+JavaScript, NodeJS, VueJs 2, Vuex, Jest, TestCafe, Python 3.6, Allure, Docker.  
 
-* Working on the Acronis Cyber Infrastructure product.
-* Leading team of 6 frontend developers.
+* Led team of 6 frontend developers.
 * Improved internal automated product deployment tools.
-* Adopted and integrated functional tests approach.
-* Developer reports server for pull requests CI results.
+* Adopted and integrated E2E tests approach.
 * E2E tests development.
+* Developed reports server for pull requests CI results.
 * Implemented automatic statistics gathering per developers team with detailed reports created every sprint.
 
 **[Virtuozzo Research](https://virtuozzo.com)**  
 2016.01 - 2020.02, Senior Software Developer.  
 
-**Technology Stack**  
-C++, Python 2.7, Python 3.4, Flask, Marshmallow, Gevent,  
-JavaScript, XSLT, React, MobX, VueJs 2, Jest, NodeJs, FeathersJs,  
-Docker, RPM, OpenAPI 3, OpenStack, Kubernetes.  
+**Worked on [Virtuozzo Hyperconverged Infrastructure](https://www.virtuozzo.com/virtuozzo-hybrid-infrastructure/)**  
+Python 2.7, Python 3.4, Flask, Marshmallow, Gevent,  
+JavaScript, VueJs 2, Jest, NodeJs, Docker, OpenAPI 3, OpenStack.  
 
-* Support and development of Virtuozzo Automator (former Parallels Virtual Automation), migration to CentOs 7.
-* Created Slack bot for fast build notifications delivery.
-* Led team of 4 backend developers, adoption of agile methodology.
-* Worked on backend of Virtuozzo Application Platform.
-* Worked on frontend of Virtuozzo Application Platform.
-* Worked on backend of Virtuozzo Hyperconverged Infrastructure, extended OpenStack components.
-* Designed authentication layer in Virtuozzo Application Platform (Keystone, FeathersJS, Kubernetes) and Virtuozzo Hyperconverged Infrastructure.
+* Full stack development including extension of OpenStack components.
+* Designed authentication layer of the product.
 * Designed and implemented notification microservice based on internal OpenStack event system.
-* Designed architecture of Virtuozzo Hyperconverged Infrastructure Self Service Portal.
+* Designed architecture of Self Service Portal.
 * Adopted and developed REST API documentation using OpenAPI 3.
 * Led team of 5 frontend developers.
 * Deployed and supported private npm registry Verdaccio.
-* Worked on frontend of Virtuozzo Hyperconverged Infrastructure.
 * Designed and developed backend emulator to speed up development of frontend features.
+
+**Worked on Virtuozzo Application Platform**  
+JavaScript, React, MobX, NodeJs, FeathersJs, Docker, RPM, Kubernetes.  
+
+* Worked on beta version of the product.
+* Designed authentication layer of the product.
+
+**Worked on Virtuozzo Automator (former Parallels Virtual Automation)**  
+C++, Python 2.7, JavaScript, XSLT, NodeJs, RPM.  
+
+* Organized migration of the product to CentOs 7 and Virtuozzo Server 7.
+* Created Slack bot for fast build notifications delivery.
+* Led team of 4 backend developers, adopted kanban methodology.
 
 **[Parallels Research](https://www.parallels.com)**  
 2012.07 - 2015.12, Software Developer.  
 
-**Technology Stack**  
-Python 2.7, PyQt, C/C++, boost, Qt 4, WinAPI, JavaScript, XSLT, SOAP, RPM.  
+**Worked on Parallels Virtual Automation**  
+Python 2.7, C/C++, boost, WinAPI, JavaScript, XSLT, SOAP, RPM.  
 
-* Worked on the Anaconda installer for Parallels Cloud Server 6.
-* Worked on Parallels Cloud Server 6 and Virtuozzo Server 7.
-* Supported and improved user interface for Parallels Virtual Automation, full stack.
+* Supported and improved user interface and backend of the product, full stack.
 * Developed VDI solution based on Parallels Virtual Automation and Parallels Virtuozzo Containers for Windows.
 * Led team of 2 full-stack developers.
 
+**Worked on Parallels Cloud Server 6 and 7**  
+Python 2.7, PyQt, C/C++, Qt 4, RPM.  
+
+* Worked on virtual machines and OS containers management layer.
+* Customized Anaconda installer for smooth product installation.
+
 **[Concern Morinformsystem - Agat](https://concern-agat.ru/en/)**  
 2008.07 - 2012.07, Software Developer.  
-
-**Technology Stack**  
 C++, Qt 1.41, XLib.  
 
 * Worked on UI of submarine management system (C++, Qt, Xlib, lXpm), manual and unit testing.
