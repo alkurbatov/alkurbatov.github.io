@@ -58,6 +58,10 @@ permalink: /cv/ru
 #### [Acronis](https://acronis.com)
 02.2020 - по настоящее время, ведущий программист-разработчик.  
 
+**Участие в исследованиях Acronis AI Team**  
+Python 3.9, numpy, pandas, mathplotlib, scikit-learn, lightgbm, Jupyter notebooks.  
+* Разработка статического анализатора PE файлов Windows и обучение модели для определения зараженных файлов.
+
 **Разработка [Acronis Cyber Infrastructure](https://www.acronis.com/en-us/products/cyber-infrastructure/)**  
 JavaScript, NodeJS, VueJs 2, Vuex, Jest, TestCafe, Python 3.6, Allure, Docker.  
 

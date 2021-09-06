@@ -54,6 +54,10 @@ Also, I have experience in:
 **[Acronis](https://acronis.com)**  
 2020.02 - present, Lead Software Developer.  
 
+**Research in Acronis AI Team**  
+Python 3.9, numpy, pandas, mathplotlib, scikit-learn, lightgbm, Jupyter notebooks.  
+* Developed static analyzer of Windows PE files and trained model to determine infected files. 
+
 **Worked on [Acronis Cyber Infrastructure](https://www.acronis.com/en-us/products/cyber-infrastructure/)**  
 JavaScript, NodeJS, VueJs 2, Vuex, Jest, TestCafe, Python 3.6, Allure, Docker.  
 
