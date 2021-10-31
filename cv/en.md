@@ -8,7 +8,7 @@ permalink: /cv/en
 # Kurbatov Alexander
 
 ### Personal Info
-* Work experience: 13 years.
+* Work experience: 14 years.
 * Location: Russia, Moscow
 * Email: [sandro.kurbatov@gmail.com](mailto:sandro.kurbatov@gmail.com)
 
@@ -19,7 +19,7 @@ permalink: /cv/en
 
 
 ### Skills
-* C++14, STL, templates, googletest.
+* C++17, STL, templates, googletest.
 * Python.
 * JavaScript, VueJs, Jest.
 * Linux (CentOs, Fedora).
@@ -45,7 +45,7 @@ Also, I have experience in:
 * REST API design;
 * writing technical requirements, feature descriptions and test requirements;
 * job interviewing;
-* packaging of npm, rpm and pip packets.
+* packaging of npm, rpm and pip packets;
 * UI/UX design;
 * fostering two cats :)
 
@@ -55,7 +55,7 @@ Also, I have experience in:
 2020.02 - present, Lead Software Developer.  
 
 **Research in Acronis AI Team**  
-Python 3.9, numpy, pandas, mathplotlib, scikit-learn, lightgbm, Jupyter notebooks.  
+Python 3.9, pyspark, livy, hdfs, numpy, pandas, mathplotlib, scikit-learn, lightgbm.  
 * Developed static analyzer of Windows PE files and trained model to determine infected files. 
 
 **Worked on [Acronis Cyber Infrastructure](https://www.acronis.com/en-us/products/cyber-infrastructure/)**  

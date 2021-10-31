@@ -8,7 +8,7 @@ permalink: /cv/ru
 # Курбатов Александр
 
 ### Личная информация
-* Опыт работы: 13 лет.
+* Опыт работы: 14 лет.
 * Дата рождения: 13.08.1984.
 * Гражданство: РФ.
 * Проживание: г. Москва, ближайшее метро Стахановская/МЦК Нижегородская.
@@ -24,7 +24,7 @@ permalink: /cv/ru
 
 
 ### Профессиональные навыки
-* C++14, STL, templates, googletest.
+* C++17, STL, templates, googletest.
 * Python.
 * JavaScript, VueJs, Jest.
 * Linux (CentOs, Fedora).
@@ -49,8 +49,8 @@ permalink: /cv/ru
 * проектирования REST API;
 * анализа требований к задаче, составления Feature Description и разделения крупной задачи на более мелкие;
 * проведения собеседований;
-* сборки npm, rpm и pip пакетов.
-* дизайна и разработки пользовательских интерфейсов.
+* сборки npm, rpm и pip пакетов;
+* дизайна и разработки пользовательских интерфейсов;
 * воспитания двух кошек :)
 
 
@@ -59,7 +59,7 @@ permalink: /cv/ru
 02.2020 - по настоящее время, ведущий программист-разработчик.  
 
 **Участие в исследованиях Acronis AI Team**  
-Python 3.9, numpy, pandas, mathplotlib, scikit-learn, lightgbm, Jupyter notebooks.  
+Python 3.9, pyspark, livy, hdfs, numpy, pandas, mathplotlib, scikit-learn, lightgbm.  
 * Разработка статического анализатора PE файлов Windows и обучение модели для определения зараженных файлов.
 
 **Разработка [Acronis Cyber Infrastructure](https://www.acronis.com/en-us/products/cyber-infrastructure/)**  
