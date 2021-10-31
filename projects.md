@@ -6,9 +6,10 @@ permalink: /projects/
 My learning and hobby projects:
 * [alkurbatov.github.io](https://github.com/alkurbatov/alkurbatov.github.io) - this blog.
 * [athene](https://github.com/alkurbatov/athene) - machine learning experiments with Pysc2 and StarCraft II (Python).
+* [codegen](https://github.com/cpp-sc2/codegen) - code generator utility for cpp-sc2 API, uses NodeJS to generate C++ code.
 * [cpp-sc2](https://github.com/alkurbatov/cpp-sc2) - StarCraft II client C++ library, proud fork of [Blizzard/s2client-api](https://github.com/Blizzard/s2client-api).
 * [dotfiles](https://github.com/alkurbatov/dotfiles) - the personal configurations files, scripts and more.
-* [codegen](https://github.com/cpp-sc2/codegen) - code generator utility for cpp-sc2 API, uses NodeJS to generate C++ code.
+* [emacs.d](https://github.com/alkurbatov/emacs.d) - my Emacs configuration
 * [observatory](https://github.com/alkurbatov/observatory) - Show nice-looking sprint statistics using the Jira API and the R language (NodeJS).
 * [qrunner](https://github.com/alkurbatov/qrunner) - a tool to run Apple scripts.
 * [suvorov-bot](https://github.com/alkurbatov/suvorov-bot) - a simple StarCraft II script bot written in C++.
