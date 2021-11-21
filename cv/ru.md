@@ -59,7 +59,7 @@ permalink: /cv/ru
 02.2020 - по настоящее время, ведущий программист-разработчик.  
 
 **Участие в исследованиях Acronis AI Team**  
-Python 3.9, pyspark, livy, hdfs, numpy, pandas, mathplotlib, scikit-learn, lightgbm.  
+C++14, Python 3.9, pyspark, livy, hdfs, numpy, pandas, mathplotlib, scikit-learn, lightgbm.  
 * Разработка статического анализатора PE файлов Windows и обучение модели для определения зараженных файлов.
 
 **Разработка [Acronis Cyber Infrastructure](https://www.acronis.com/en-us/products/cyber-infrastructure/)**  
