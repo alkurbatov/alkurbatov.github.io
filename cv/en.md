@@ -55,8 +55,10 @@ Also, I have experience in:
 2020.02 - present, Lead Software Developer.  
 
 **Research in Acronis AI Team**  
-C++14, Python 3.9, pyspark, livy, hdfs, numpy, pandas, mathplotlib, scikit-learn, lightgbm.  
-* Developed static analyzer of Windows PE files and trained model to determine infected files. 
+C++14, Python 3.9, pyspark, livy, hdfs, numpy, pandas, mathplotlib, scikit-learn, lightgbm, mlflow.  
+* Developed static analyzer of Windows PE files and trained model to determine infected files.
+* Worked on training library, using Spark to run experiments.
+* Patched mlflow to fix bugs.
 
 **Worked on [Acronis Cyber Infrastructure](https://www.acronis.com/en-us/products/cyber-infrastructure/)**  
 JavaScript, NodeJS, VueJs 2, Vuex, Jest, TestCafe, Python 3.6, Allure, Docker.  
