@@ -40,7 +40,7 @@ permalink: /cv/ru
 
 
 ### О себе
-Любопытный и любознательный, быстро учусь, легко разбираюсь в legacy коде, обладаю широким набором hard и soft skills.
+Любопытный, быстро учусь, легко разбираюсь в legacy коде, обладаю широким набором hard и soft skills.
 Увлекаюсь написанием скриптовых AI, интересуюсь машинным обучением, поддерживаю C++ API для разработки ботов.  
 Эти и другие мои проекты можно найти на [github](https://github.com/alkurbatov).
 
@@ -59,7 +59,7 @@ permalink: /cv/ru
 02.2020 - по настоящее время, ведущий программист-разработчик.  
 
 **Участие в исследованиях Acronis AI Team**  
-C++14, Python 3.9, pyspark, livy, hdfs, numpy, pandas, mathplotlib, scikit-learn, lightgbm, mlflow.  
+C++14, Python 3.9, PySpark, SynapseML, Livy, HDFS, Numpy, Pandas, scikit-learn, LightGBM, MLflow.  
 * Разработка статического анализатора PE файлов Windows и обучение модели для определения зараженных файлов.
 * Развитие тренировочной библиотеки, использующей Spark для запуска экспериментов.
 * Исправление багов mlflow.

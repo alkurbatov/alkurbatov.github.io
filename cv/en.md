@@ -36,7 +36,7 @@ permalink: /cv/en
 
 
 ### About
-Curious, inquisitive, fast learner, easily dive into legacy code, passionate about technology. I have vast number of useful hard and soft skills.
+Curious, fast learner, easily dive into legacy code, passionate about technology. I have vast number of useful hard and soft skills.
 I enjoy writing scripted AIs, interested in Machine Learning, develop open-source C++ API for writing Starcraft II bots.
 My pet projects can be found at [github](https://github.com/alkurbatov).
 
@@ -55,7 +55,7 @@ Also, I have experience in:
 2020.02 - present, Lead Software Developer.  
 
 **Research in Acronis AI Team**  
-C++14, Python 3.9, pyspark, livy, hdfs, numpy, pandas, mathplotlib, scikit-learn, lightgbm, mlflow.  
+C++14, Python 3.9, PySpark, SynapseML, Livy, HDFS, Numpy, Pandas, scikit-learn, LightGBM, MLflow.  
 * Developed static analyzer of Windows PE files and trained model to determine infected files.
 * Worked on training library, using Spark to run experiments.
 * Patched mlflow to fix bugs.
