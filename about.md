@@ -3,4 +3,4 @@ layout: page
 title: About
 permalink: /about/
 ---
-Programmer, linuxoid, cat owner, [Acronis](https://www.acronis.com) employee, playing with clouds and computer games. I work on Acronis Cyber Infrastructure as a full-stack developer and team leader of the Cyber Infrastructure frontend team.
+Programmer, cat's owner, [Acronis](https://www.acronis.com) employee, main developer of [cpp-sc2](https://github.com/cpp-sc2). I enjoy writing scripted AIs and interested in Machine Learning.
