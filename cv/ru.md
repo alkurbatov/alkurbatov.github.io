@@ -3,12 +3,12 @@ layout: page
 title: CV
 permalink: /cv/ru
 ---
-[English version]({% link cv/en.md %})
+[English version]({% link ch/en.md %})
 
 # Курбатов Александр
 
 ### Личная информация
-* Опыт работы: 14 лет.
+* Опыт работы: 15 лет.
 * Дата рождения: 13.08.1984.
 * Гражданство: РФ.
 * Проживание: г. Москва, ближайшее метро Стахановская/МЦК Нижегородская.
@@ -60,9 +60,11 @@ permalink: /cv/ru
 
 **Участие в исследованиях Acronis AI Team**  
 C++14, Python 3.9, PySpark, SynapseML, Livy, HDFS, Numpy, Pandas, scikit-learn, LightGBM, MLflow.  
-* Разработка статического анализатора PE файлов Windows и обучение модели для определения зараженных файлов.
-* Развитие тренировочной библиотеки, использующей Spark для запуска экспериментов.
-* Исправление багов mlflow.
+* Участие в разработке статического анализатора PE файлов Windows и повышение точности модели для определения зараженных файлов.
+* Расширение тренировочной библиотеки, использующей Spark для запуска экспериментов.
+* Исправление багов MLflow.
+* Поддержка Spark кластера и других инфраструктурных сервисов.
+* Автоматизация рутинных задач с помощью Ansible.
 
 **Разработка [Acronis Cyber Infrastructure](https://www.acronis.com/en-us/products/cyber-infrastructure/)**  
 JavaScript, NodeJS, VueJs 2, Vuex, Jest, TestCafe, Python 3.6, Allure, Docker.  

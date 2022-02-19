@@ -8,7 +8,7 @@ permalink: /cv/en
 # Kurbatov Alexander
 
 ### Personal Info
-* Work experience: 14 years.
+* Work experience: 15 years.
 * Location: Russia, Moscow
 * Email: [sandro.kurbatov@gmail.com](mailto:sandro.kurbatov@gmail.com)
 
@@ -56,9 +56,11 @@ Also, I have experience in:
 
 **Research in Acronis AI Team**  
 C++14, Python 3.9, PySpark, SynapseML, Livy, HDFS, Numpy, Pandas, scikit-learn, LightGBM, MLflow.  
-* Developed static analyzer of Windows PE files and trained model to determine infected files.
-* Worked on training library, using Spark to run experiments.
-* Patched mlflow to fix bugs.
+* Worked on static analyzer of Windows PE files and improved performance of malware detection model.
+* Extended internal Spark training library.
+* Fixed several bugs in MLflow.
+* Maintained Spark cluster and other infrastructure services.
+* Automated routine tasks with Ansible.
 
 **Worked on [Acronis Cyber Infrastructure](https://www.acronis.com/en-us/products/cyber-infrastructure/)**  
 JavaScript, NodeJS, VueJs 2, Vuex, Jest, TestCafe, Python 3.6, Allure, Docker.  
@@ -80,7 +82,7 @@ JavaScript, VueJs 2, Jest, NodeJs, Docker, OpenAPI 3, OpenStack.
 * Full stack development including extension of OpenStack components.
 * Designed authentication layer of the product.
 * Designed and implemented notification microservice based on internal OpenStack event system.
-* Designed architecture of Self Service Portal.
+* Designed architecture of OBSelf Service Portal.
 * Adopted and developed REST API documentation using OpenAPI 3.
 * Led team of 5 frontend developers.
 * Deployed and supported private npm registry Verdaccio.
