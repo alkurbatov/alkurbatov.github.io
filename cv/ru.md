@@ -3,7 +3,7 @@ layout: page
 title: CV
 permalink: /cv/ru
 ---
-[English version]({% link ch/en.md %})
+[English version]({% link cv/en.md %})
 
 # Курбатов Александр
 
