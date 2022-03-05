@@ -8,7 +8,7 @@ permalink: /cv/en
 # Kurbatov Alexander
 
 ### Personal Info
-* Work experience: 15 years.
+* Work experience: 14 years.
 * Location: Russia, Moscow
 * Email: [sandro.kurbatov@gmail.com](mailto:sandro.kurbatov@gmail.com)
 
