@@ -55,8 +55,11 @@ permalink: /cv/ru
 
 
 ### Профессиональный опыт
+#### [МТС ИИ](https://mts.ai/ru/home/)
+04.2022 - по настоящее время, старший программист.  
+
 #### [Acronis](https://acronis.com)
-02.2020 - по настоящее время, ведущий программист-разработчик.  
+02.2020 - 03.2022, ведущий программист-разработчик.  
 
 **Участие в исследованиях Acronis AI Team**  
 C++14, Python 3.9, PySpark, SynapseML, Livy, HDFS, Numpy, Pandas, scikit-learn, LightGBM, MLflow.  

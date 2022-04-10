@@ -51,8 +51,11 @@ Also, I have experience in:
 
 
 ### Experience
+**[MTS AI](https://mts.ai)**  
+2022.04 - present, Senior Software Developer.  
+
 **[Acronis](https://acronis.com)**  
-2020.02 - present, Lead Software Developer.  
+2020.02 - 2022.03, Lead Software Developer.  
 
 **Research in Acronis AI Team**  
 C++14, Python 3.9, PySpark, SynapseML, Livy, HDFS, Numpy, Pandas, scikit-learn, LightGBM, MLflow.  
