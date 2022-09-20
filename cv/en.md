@@ -54,11 +54,19 @@ Also, I have experience in:
 **[MTS AI](https://mts.ai)**  
 2022.04 - present, Senior Software Developer.  
 
+**Worked on [Audiogram](https://mts.ai/ru/product/audiogram/)**  
+Python, Docker, SQLalchemy, FastAPI, Prometheus, gRPC.  
+
+* Developed authentication and authorization subsystem using iSSO (Keycloak).
+* Developed audio archive service allowing to download audio files uploaded for recognition.
+* Improved product observability: collected metrics with Prometheus, added Grafana dashboards, integrated tracing with OpenTelemetry.
+
 **[Acronis](https://acronis.com)**  
 2020.02 - 2022.03, Lead Software Developer.  
 
 **Research in Acronis AI Team**  
 C++14, Python 3.9, PySpark, SynapseML, Livy, HDFS, Numpy, Pandas, scikit-learn, LightGBM, MLflow.  
+
 * Worked on static analyzer of Windows PE files and improved performance of malware detection model.
 * Extended internal Spark training library.
 * Fixed several bugs in MLflow.
