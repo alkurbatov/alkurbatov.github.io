@@ -58,8 +58,9 @@ Also, I have experience in:
 Python, Docker, SQLalchemy, FastAPI, Prometheus, gRPC.  
 
 * Developed authentication and authorization subsystem using iSSO (Keycloak).
-* Developed audio archive service allowing to download audio files uploaded for recognition.
+* Developed audio archive services allowing to download audio files uploaded for recognition.
 * Improved product observability: collected metrics with Prometheus, added Grafana dashboards, integrated tracing with OpenTelemetry.
+* Supported and improved Gitlab CI for source code repositories.
 
 **[Acronis](https://acronis.com)**  
 2020.02 - 2022.03, Lead Software Developer.  
