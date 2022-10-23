@@ -59,7 +59,7 @@ permalink: /cv/ru
 04.2022 - по настоящее время, старший программист.  
 
 **Разработка [Audiogram](https://mts.ai/ru/product/audiogram/)**  
-Python, Docker, SQLalchemy, FastAPI, Prometheus, gRPC.  
+Python, Docker, SQLalchemy, FastAPI, Prometheus, gRPC, Kubernetes.  
 
 * Разработка подсистемы аутентификации и авторизации с использованием iSSO (Keycloak).
 * Разработка сервисов аудио архива для доступа к аудио файлам, загруженным на распознавание.

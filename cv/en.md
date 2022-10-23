@@ -47,7 +47,7 @@ Also, I have experience in:
 * job interviewing;
 * packaging of npm, rpm and pip packets;
 * UI/UX design;
-* fostering two cats :)
+* fostering cats :)
 
 
 ### Experience
@@ -55,7 +55,7 @@ Also, I have experience in:
 2022.04 - present, Senior Software Developer.  
 
 **Worked on [Audiogram](https://mts.ai/ru/product/audiogram/)**  
-Python, Docker, SQLalchemy, FastAPI, Prometheus, gRPC.  
+Python, Docker, SQLalchemy, FastAPI, Prometheus, gRPC, Kubernetes.  
 
 * Developed authentication and authorization subsystem using iSSO (Keycloak).
 * Developed audio archive services allowing to download audio files uploaded for recognition.
