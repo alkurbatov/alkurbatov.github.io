@@ -24,4 +24,4 @@ tags: books review
 
 * Learning Spark, 2nd edition, Jules Damji, Denny Lee, Brooke Wenig, Tathagata Das, O'Reilly - очень общее введение в Spark 2+ и 3.0, подходит для общего ознакомления, для чего и была выбрана. Много самых разнообразных тем раскрыто поверхностно, но хотя бы можно наметить куда копать дальше.
 
-[Итоги 2020го года]({% link _posts/2020-12-30-reading-results-2020.markdown %})
+[Итоги 2020го года]({% link _posts/2020-12-30-reading-results-2020.markdown %}) | [Итоги 2022го года]({% link _posts/2022-12-30-reading-results-2022.markdown %})
