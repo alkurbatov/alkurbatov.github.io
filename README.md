@@ -21,6 +21,6 @@ $ bundle exec jekyll serve
 * [Markdown Syntax](https://www.markdownguide.org/basic-syntax/)
 
 ## License
-Copyright (c) 2018 - 2022
+Copyright (c) 2018 - 2023
 
 Licensed under the [GPLv3 license](COPYING).
