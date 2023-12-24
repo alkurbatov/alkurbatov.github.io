@@ -1,5 +1,5 @@
 # alkurbatov.github.io
-Personal blog of Alexander Kurbatov built with jekyll.
+Personal blog of Aleksandr Kurbatov built with jekyll.
 
 ## Setup & Launch
 ```bash

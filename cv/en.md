@@ -5,12 +5,12 @@ permalink: /cv/en
 ---
 [Русская версия]({% link cv/ru.md %})
 
-# Kurbatov Alexander
+# Aleksandr Kurbatov
 
 ### Personal Info
-* Work experience: 14 years.
+* Work experience: 15 years.
 * Location: Russia, Moscow
-* Email: [sandro.kurbatov@gmail.com](mailto:sandro.kurbatov@gmail.com)
+* Email: [sir.alkurbatov@yandex.ru](mailto:sir.alkurbatov@yandex.ru)
 
 
 ### Education
@@ -19,14 +19,12 @@ permalink: /cv/en
 
 
 ### Skills
-* C++17, STL, templates, googletest.
 * Python.
-* JavaScript, VueJs, Jest.
-* Linux (CentOs, Fedora).
+* Golang.
+* C++17, STL, templates.
+* Linux.
 * REST, websockets, OpenAPI.
-* OpenStack.
-* Docker, Ansible.
-* gcc, gdb, cmake, make.
+* Docker.
 
 
 ### Languages
@@ -36,16 +34,15 @@ permalink: /cv/en
 
 
 ### About
-Curious, fast learner, easily dive into legacy code, passionate about technology. I have vast number of useful hard and soft skills.
-I enjoy writing scripted AIs, interested in Machine Learning, develop open-source C++ API for writing Starcraft II bots.
-My pet projects can be found at [github](https://github.com/alkurbatov).
+I passionate about technology, easily dive into legacy code, have vast number of useful hard and soft skills.
+I enjoy writing scripted AIs, develop open-source C++ API for writing StarCraft II bots.
+My pet and learning projects can be found at [github](https://github.com/alkurbatov).
 
 Also, I have experience in:  
 
 * REST API design;
 * writing technical requirements, feature descriptions and test requirements;
 * job interviewing;
-* packaging of npm, rpm and pip packets;
 * UI/UX design;
 * fostering cats :)
 
@@ -55,12 +52,13 @@ Also, I have experience in:
 2022.04 - present, Senior Software Developer.  
 
 **Worked on [Audiogram](https://mts.ai/ru/product/audiogram/)**  
-Python, Docker, SQLalchemy, FastAPI, Prometheus, gRPC, Kubernetes.  
+Python, Golang, C++, Docker, asyncio, FastAPI, Prometheus, gRPC, Kubernetes.  
 
-* Developed authentication and authorization subsystem using iSSO (Keycloak).
-* Developed audio archive services allowing to download audio files uploaded for recognition.
+* Developed several microservices from scratch: audio archive, gender/age prediction, authentication and authorization iSSO subsystem over Keycloak.
+* Support and further development of microservices: audio transcoding service using the ffmpeg library, HTTP/WS -> gRPC proxy gateway.
 * Improved product observability: collected metrics with Prometheus, added Grafana dashboards, integrated tracing with OpenTelemetry.
 * Supported and improved Gitlab CI for source code repositories.
+* Led team during team lead absence.
 
 **[Acronis](https://acronis.com)**  
 2020.02 - 2022.03, Lead Software Developer.  

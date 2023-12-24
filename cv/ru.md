@@ -8,11 +8,11 @@ permalink: /cv/ru
 # Курбатов Александр
 
 ### Личная информация
-* Опыт работы: 14 лет.
+* Опыт работы: 15 лет.
 * Дата рождения: 13.08.1984.
 * Гражданство: РФ.
 * Проживание: г. Москва, ближайшее метро Стахановская/МЦК Нижегородская.
-* Email: [sandro.kurbatov@gmail.com](mailto:sandro.kurbatov@gmail.com)
+* Email: [sir.alkurbatov@yandex.ru](mailto:sir.alkurbatov@yandex.ru)
 
 
 ### Образование
@@ -24,14 +24,12 @@ permalink: /cv/ru
 
 
 ### Профессиональные навыки
-* C++17, STL, templates, googletest.
 * Python.
-* JavaScript, VueJs, Jest.
-* Linux (CentOs, Fedora).
+* Golang.
+* C++17, STL, templates.
+* Linux.
 * REST, websockets, OpenAPI.
-* OpenStack.
-* Docker, Ansible.
-* gcc, gdb, cmake, make.
+* Docker.
 
 
 ### Иностранные языки
@@ -40,8 +38,8 @@ permalink: /cv/ru
 
 
 ### О себе
-Любопытный, быстро учусь, легко разбираюсь в legacy коде, обладаю широким набором hard и soft skills.
-Увлекаюсь написанием скриптовых AI, интересуюсь машинным обучением, поддерживаю C++ API для разработки ботов.  
+Легко разбираюсь в legacy коде, обладаю широкии набором hard и soft skills, осваиваю Golang.
+Увлекаюсь написанием скриптовых AI, поддерживаю C++ API для разработки ботов в StarCraft II.  
 Эти и другие мои проекты можно найти на [github](https://github.com/alkurbatov).
 
 Также имею опыт:  
@@ -49,7 +47,6 @@ permalink: /cv/ru
 * проектирования REST API;
 * анализа требований к задаче, составления Feature Description и разделения крупной задачи на более мелкие;
 * проведения собеседований;
-* сборки npm, rpm и pip пакетов;
 * дизайна и разработки пользовательских интерфейсов;
 * воспитания двух кошек :)
 
@@ -59,12 +56,13 @@ permalink: /cv/ru
 04.2022 - по настоящее время, старший программист.  
 
 **Разработка [Audiogram](https://mts.ai/ru/product/audiogram/)**  
-Python, Docker, SQLalchemy, FastAPI, Prometheus, gRPC, Kubernetes.  
+Python, Golang, C++, Docker, asyncio, FastAPI, Prometheus, gRPC, Kubernetes.  
 
-* Разработка подсистемы аутентификации и авторизации с использованием iSSO (Keycloak).
-* Разработка сервисов аудио архива для доступа к аудио файлам, загруженным на распознавание.
+* Разработал несколько микросервисов: аудио архив, сервис предсказания пола/возраста спикера, подсистема аутентификации и авторизации iSSO через Keycloak.
+* Поддержка и развитие микросервисов: сервис транскодирования аудио с использованием библиотеки ffmpeg, HTTP/WS -> gRPC proxy gateway.
 * Улучшение наблюдаемости продукта: сбор метрик в Prometheus, написание дашбордов Grafana, трассировка в OpenTelemetry.
 * Доработка и поддержка Gitlab CI в репозитория с исходным кодом.
+* Управление командой в отсутствие руководителя.
 
 #### [Acronis](https://acronis.com)
 02.2020 - 03.2022, ведущий программист-разработчик.  
