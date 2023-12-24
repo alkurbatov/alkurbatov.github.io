@@ -52,7 +52,6 @@ plugins:
 header_pages:
   - projects.md
   - certificates.md
-  - publications.md
   - cv/en.md
   - about.md
 
