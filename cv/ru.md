@@ -53,7 +53,7 @@ permalink: /cv/ru
 
 ### Профессиональный опыт
 #### [МТС ИИ](https://mts.ai/ru/home/)
-04.2022 - по настоящее время, старший программист.  
+04.2022 - по настоящее время, ведущий разработчик.  
 
 **Разработка [Audiogram](https://mts.ai/ru/product/audiogram/)**  
 Python, Golang, C++, Docker, asyncio, FastAPI, Prometheus, gRPC, Kubernetes.  

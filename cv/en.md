@@ -49,7 +49,7 @@ Also, I have experience in:
 
 ### Experience
 **[MTS AI](https://mts.ai)**  
-2022.04 - present, Senior Software Developer.  
+2022.04 - present, Lead Software Developer.  
 
 **Worked on [Audiogram](https://mts.ai/ru/product/audiogram/)**  
 Python, Golang, C++, Docker, asyncio, FastAPI, Prometheus, gRPC, Kubernetes.  
