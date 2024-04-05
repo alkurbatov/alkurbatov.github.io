@@ -63,5 +63,3 @@ defaults:
       author: "Aleksandr Kurbatov"
       excerpt_separator: <!--more-->
       layout: "post"
-
-google_analytics: UA-131413313-1
