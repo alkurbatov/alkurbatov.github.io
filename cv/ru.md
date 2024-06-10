@@ -56,10 +56,11 @@ permalink: /cv/ru
 04.2022 - по настоящее время, ведущий разработчик.  
 
 **Разработка [Audiogram](https://mts.ai/ru/product/audiogram/)**  
-Python, Golang, C++, Docker, asyncio, FastAPI, Prometheus, gRPC, Kubernetes.  
+Python, Golang, C++20, Docker, asyncio, OpenTelemetry, Prometheus, gRPC, Kubernetes.  
 
 * Разработал несколько микросервисов: аудио архив, сервис предсказания пола/возраста спикера, подсистема аутентификации и авторизации iSSO через Keycloak.
 * Поддержка и развитие микросервисов: сервис транскодирования аудио с использованием библиотеки ffmpeg, HTTP/WS -> gRPC proxy gateway.
+* Создание и развитие шаблонов для быстрого создания новых сервисов и библиотек на Python и Golang.
 * Улучшение наблюдаемости продукта: сбор метрик в Prometheus, написание дашбордов Grafana, трассировка в OpenTelemetry.
 * Доработка и поддержка Gitlab CI в репозитория с исходным кодом.
 * Управление командой в отсутствие руководителя.

@@ -52,10 +52,11 @@ Also, I have experience in:
 2022.04 - present, Lead Software Developer.  
 
 **Worked on [Audiogram](https://mts.ai/ru/product/audiogram/)**  
-Python, Golang, C++, Docker, asyncio, FastAPI, Prometheus, gRPC, Kubernetes.  
+Python, Golang, C++20, Docker, asyncio, OpenTelemetry, Prometheus, gRPC, Kubernetes.  
 
 * Developed several microservices from scratch: audio archive, gender/age prediction, authentication and authorization iSSO subsystem over Keycloak.
 * Support and further development of microservices: audio transcoding service using the ffmpeg library, HTTP/WS -> gRPC proxy gateway.
+* Created and developed templates for quick creation of new services and libraries on Python and Golang.
 * Improved product observability: collected metrics with Prometheus, added Grafana dashboards, integrated tracing with OpenTelemetry.
 * Supported and improved Gitlab CI for source code repositories.
 * Led team during team lead absence.
