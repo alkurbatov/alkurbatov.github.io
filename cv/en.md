@@ -56,7 +56,7 @@ Also, I have experience in:
 2024.07 - present, software developer.  
 
 **Authentication platform development**  
-Golang
+Golang, Redis
 
 ### [MTS AI](https://mts.ai)
 
